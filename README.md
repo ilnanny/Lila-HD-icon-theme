@@ -53,8 +53,8 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
 
  rm -rf Lila-HD-icon-theme
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-
-<P>PPA for Ubuntu 16.04 Xenial/15.10 Wily/14.04 Trusty/12.04 Precise/Linux Mint 17.x/13/other related Ubuntu derivatives</P>
+#How to install *PPA*
+<P>For Ubuntu 16.04 Xenial/15.10 Wily/14.04 Trusty/12.04 Precise/Linux Mint 17.x/13/other related Ubuntu derivatives</P>
 <P>To install Lila-HD Icons in Ubuntu/Linux Mint open Terminal (Press Ctrl+Alt+T) and copy the following commands in the terminal:</P>
 <P>Terminal Commands:</P>
 <P>sudo add-apt-repository ppa:noobslab/icons</P>
