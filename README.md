@@ -71,7 +71,7 @@ Donate:
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 Other screenshot and download :
 
-<b><a href="https://sourceforge.net/projects/lila-hd-icontheme/" target="_blank">Sourcefoge</a></b>
+
 <a href="https://sourceforge.net/p/lila-hd-icontheme/" rel="nofollow"><img alt="Download Lila HD icon theme Linux " src="https://sourceforge.net/sflogo.php?type=8&group_id=2676798"></a>
 
 <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
