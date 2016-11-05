@@ -70,18 +70,39 @@ Donate:
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-Other screenshot and download :
-<b>#How to install *PPA* ( old version )</b>
-<p>For Ubuntu 16.04 Xenial/15.10 Wily/14.04 Trusty/12.04 Precise/Linux Mint 17.x/13/other related Ubuntu derivatives</p>
-<b> Download  to  <a href="http://www.noobslab.com/2016/03/lila-hd-icons-designed-for-linuxunix.html" target="_blank">NoobsLab</a> </b>
-<b>Thanks to NoobsLab</b> 
-<hr color="”red”" align="”left”" size="”1″" width="”300″" noshade="">
+#How to install to*Fedora 22/23*
+<P>For Fedora 23 run the following as root</P>
+dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_23/home:Pival81.repo
+dnf install lila-hd-icon-theme
+
+<P>For Fedora 22 run the following as root</P>
+dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_22/home:Pival81.repo
+dnf install lila-hd-icon-theme
+
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<b>#How to install for Fedora  and OpenSuse</b>
-<b> Download  to  <a href="http://software.opensuse.org/download?project=home:Pival81&amp;package=lila-hd-icon-theme" target="_blank">Pival81</a> </b>
-<b>Thanks to  Valerio Pizzi aka Pival81</b>
-https://github.com/Pival81
-<iframe src="http://software.opensuse.org/download/iframe?project=home:Pival81&package=lila-hd-icon-theme"></iframe>
+
+#How to install to*Opensuse leap 42.1/13.2 /13.1 /Tumbleweed*
+
+For openSUSE Tumbleweed run the following as root:
+
+zypper addrepo http://download.opensuse.org/repositories/home:Pival81/openSUSE_Tumbleweed/home:Pival81.repo
+zypper refresh
+zypper install lila-hd-icon-theme
+For openSUSE Leap 42.1 run the following as root:
+
+zypper addrepo http://download.opensuse.org/repositories/home:Pival81/openSUSE_Leap_42.1/home:Pival81.repo
+zypper refresh
+zypper install lila-hd-icon-theme
+For openSUSE 13.2 run the following as root:
+
+zypper addrepo http://download.opensuse.org/repositories/home:Pival81/openSUSE_13.2/home:Pival81.repo
+zypper refresh
+zypper install lila-hd-icon-theme
+For openSUSE 13.1 run the following as root:
+
+zypper addrepo http://download.opensuse.org/repositories/home:Pival81/openSUSE_13.1/home:Pival81.repo
+zypper refresh
+zypper install lila-hd-icon-theme
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <a href="https://sourceforge.net/p/lila-hd-icontheme/" rel="nofollow"><img alt="Download Lila HD icon theme Linux " src="https://sourceforge.net/sflogo.php?type=8&group_id=2676798"></a>
