@@ -70,7 +70,7 @@ Donate:
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-#How to install to*Fedora 22/23*
+#How to install to *Fedora 22/23*
 <P>For Fedora 23 run the following as root</P>
 dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_23/home:Pival81.repo
 dnf install lila-hd-icon-theme
@@ -82,7 +82,7 @@ dnf install lila-hd-icon-theme
 <b>Thanks to <b><a href="https://github.com/Pival81" target="_blank">Piva81</a></b></b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-#How to install to*Opensuse leap 42.1/13.2 /13.1 /Tumbleweed*
+#How to install to *Opensuse leap 42.1/13.2 /13.1/Tumbleweed*
 
 For openSUSE Tumbleweed run the following as root:
 
@@ -104,6 +104,7 @@ For openSUSE 13.1 run the following as root:
 zypper addrepo http://download.opensuse.org/repositories/home:Pival81/openSUSE_13.1/home:Pival81.repo
 zypper refresh
 zypper install lila-hd-icon-theme
+
 <b>Thanks to <b><a href="https://github.com/Pival81" target="_blank">Piva81</a></b></b>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
