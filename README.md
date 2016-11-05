@@ -69,9 +69,18 @@ Donate:
 <b><a href="https://www.paypal.me/ilnanny" target="_blank">Paypal</a></b>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
+
 Other screenshot and download :
-
-
+<b>#How to install *PPA* ( old version )</b>
+<p>For Ubuntu 16.04 Xenial/15.10 Wily/14.04 Trusty/12.04 Precise/Linux Mint 17.x/13/other related Ubuntu derivatives</p>
+<b> Download  to  <a href="http://www.noobslab.com/2016/03/lila-hd-icons-designed-for-linuxunix.html" target="_blank">NoobsLab</a> </b>
+<b>Thanks to NoobsLab</b> http://www.noobslab.com/
+<hr color="”red”" align="”left”" size="”1″" width="”300″" noshade="">
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
+<b>#How to install for Fedora  and OpenSuse</b>
+<b> Download  to  <a href="http://software.opensuse.org/download?project=home:Pival81&amp;package=lila-hd-icon-theme" target="_blank">Pival81</a> </b>
+<b>Thanks to  Valerio Pizzi aka Pival81</b> https://github.com/Pival81
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <a href="https://sourceforge.net/p/lila-hd-icontheme/" rel="nofollow"><img alt="Download Lila HD icon theme Linux " src="https://sourceforge.net/sflogo.php?type=8&group_id=2676798"></a>
 
 <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
