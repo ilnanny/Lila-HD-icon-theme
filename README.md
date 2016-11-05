@@ -79,6 +79,7 @@ dnf install lila-hd-icon-theme
 dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_22/home:Pival81.repo
 dnf install lila-hd-icon-theme
 
+<b>Thanks to <b><a href="https://github.com/Pival81" target="_blank">Piva81</a></b></b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 #How to install to*Opensuse leap 42.1/13.2 /13.1 /Tumbleweed*
@@ -103,6 +104,7 @@ For openSUSE 13.1 run the following as root:
 zypper addrepo http://download.opensuse.org/repositories/home:Pival81/openSUSE_13.1/home:Pival81.repo
 zypper refresh
 zypper install lila-hd-icon-theme
+<b>Thanks to <b><a href="https://github.com/Pival81" target="_blank">Piva81</a></b></b>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <a href="https://sourceforge.net/p/lila-hd-icontheme/" rel="nofollow"><img alt="Download Lila HD icon theme Linux " src="https://sourceforge.net/sflogo.php?type=8&group_id=2676798"></a>
