@@ -14,8 +14,8 @@
    height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="gnome-aisleriot.svg">
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="aisleriot.svg">
   <script
      xlink:href=""
      id="script2985" />
@@ -300,17 +300,6 @@
          style="stop-color:#ffffff;stop-opacity:1"
          offset="1" />
     </linearGradient>
-    <radialGradient
-       inkscape:collect="always"
-       xlink:href="#linearGradient4133"
-       id="radialGradient4930"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1,0,0,1.0003979,3.2558992,1.2360543)"
-       cx="48"
-       cy="48"
-       fx="48"
-       fy="48"
-       r="46.433254" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4341-9-4-5-2-0"
@@ -378,9 +367,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.8484526"
-     inkscape:cx="-16.271823"
+     inkscape:cx="20.865289"
      inkscape:cy="31.906909"
-     inkscape:current-layer="g4468"
+     inkscape:current-layer="g3540"
      showgrid="true"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -389,9 +378,9 @@
      guidetolerance="1"
      objecttolerance="1"
      inkscape:window-width="1280"
-     inkscape:window-height="963"
+     inkscape:window-height="967"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="29"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata7">
@@ -401,7 +390,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -448,7 +437,7 @@
          height="92.903458"
          width="92.866508"
          id="rect4476"
-         style="fill:url(#radialGradient4930);fill-opacity:1;stroke:none;display:inline" />
+         style="fill:#d9d9d9;fill-opacity:1;stroke:none;display:inline;opacity:1" />
       <g
          transform="translate(3.2558992,1.2551523)"
          id="g4499">
@@ -508,7 +497,7 @@
              style="fill:#000000;fill-opacity:0.51937986;stroke:none" />
         </g>
         <rect
-           style="opacity:0.46545451999999998;fill:#909060;fill-opacity:1;stroke:none"
+           style="opacity:0.315;fill:#ffffff;fill-opacity:1;stroke:none"
            id="rect4311"
            width="81.006935"
            height="76.991203"
