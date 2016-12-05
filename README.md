@@ -53,17 +53,6 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
 
  rm -rf Lila-HD-icon-theme
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-#How to install *PPA*
-<P>For Ubuntu 16.04 Xenial/15.10 Wily/14.04 Trusty/12.04 Precise/Linux Mint 17.x/13/other related Ubuntu derivatives</P>
-<P>To install Lila-HD Icons in Ubuntu/Linux Mint open Terminal (Press Ctrl+Alt+T) and copy the following commands in the terminal:</P>
-<P>Terminal Commands:</P>
-<P>sudo add-apt-repository ppa:noobslab/icons</P>
-<P>sudo apt-get update</P>
-<P>sudo apt-get install lila-hd-icons</P>
-<b> Thanks to  <a href="http://www.noobslab.com/" target="_blank">NoobsLab</a> </b>
-<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-Video : <a href="https://www.youtube.com/watch?v=oF1cSRwulas" target="_blank">Youtube</a>
-<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 Donate:
 <b><a href="https://www.paypal.me/ilnanny" target="_blank">Paypal</a></b>
@@ -108,6 +97,27 @@ zypper install lila-hd-icon-theme
 <b>Thanks to <b><a href="https://github.com/Pival81" target="_blank">Piva81</a></b></b>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
+
+#How to install *PPA*
+<P>For Ubuntu 16.04 Xenial/15.10 Wily/14.04 Trusty/12.04 Precise/Linux Mint 17.x/13/other related Ubuntu derivatives</P>
+<P>To install Lila-HD Icons in Ubuntu/Linux Mint open Terminal (Press Ctrl+Alt+T) and copy the following commands in the terminal:</P>
+<P>Terminal Commands:</P>
+<P>sudo add-apt-repository ppa:noobslab/icons</P>
+<P>sudo apt-get update</P>
+<P>sudo apt-get install lila-hd-icons</P>
+<b> Thanks to  <a href="http://www.noobslab.com/" target="_blank">NoobsLab</a> </b>
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
+Video : <a href="https://www.youtube.com/watch?v=oF1cSRwulas" target="_blank">Youtube</a>
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
+
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
+
+#How to install *AUR*
+
+<P>Search and install in Aur Package</P>
+
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
+
 <a href="https://sourceforge.net/p/lila-hd-icontheme/" rel="nofollow"><img alt="Download Lila HD icon theme Linux " src="https://sourceforge.net/sflogo.php?type=8&group_id=2676798"></a>
 
 <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
