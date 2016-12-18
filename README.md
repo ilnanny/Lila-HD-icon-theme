@@ -19,7 +19,7 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
 
 #How to install *GitHub*
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-** All commands will be executed as root **
+** All commands will be executed as root or use sudo **
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 *Remove older Version For Lila_HD_Icon_Theme:
 
