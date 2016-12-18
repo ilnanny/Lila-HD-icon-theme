@@ -112,12 +112,6 @@ Video : <a href="https://www.youtube.com/watch?v=oF1cSRwulas" target="_blank">Yo
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-#How to install *AUR*
-
-<P>Search and install in Aur Package</P>
-
-<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-
 <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
 <b><a href="https://inkscape.org/it/~ilnanny/%E2%98%85lila-hd-icon-theme-for-gnu-linux-and-unix-os" target="_blank">Inkscape</a></b>
 
