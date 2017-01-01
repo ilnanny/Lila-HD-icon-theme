@@ -22,9 +22,9 @@ sudo rm -rf /usr/share/icons/Lila_HD_Green
 sudo rm -rf /usr/share/icons/Lila_HD_Kaki
 echo
 echo
-echo "Clone Repo:"
+#echo "Clone Repo:"
 echo
-git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
+#git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
 echo
 echo
 echo
@@ -45,11 +45,6 @@ sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Blue
 sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Dark
 sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Green
 echo
-echo
-echo "Remove downloaded folder:"
-echo
-echo
-sudo rm -rf Lila-HD-icon-theme
 echo
 echo
 exit 
