@@ -5,7 +5,7 @@ echo "Icon theme for Gnu Linux Operation Sistem "
 echo
 #---------------------------------------------
 
-#How to install *GitHub*
+# install *GitHub*
 echo "All commands will be executed as root"
 echo
 if [ "$UID" -ne "$ROOT_UID" ]
@@ -22,9 +22,9 @@ sudo rm -rf /usr/share/icons/Lila_HD_Green
 sudo rm -rf /usr/share/icons/Lila_HD_Kaki
 echo
 echo
-#echo "Clone Repo:"
+echo "Clone Repo:"
 echo
-#git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
+git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
 echo
 echo
 echo
