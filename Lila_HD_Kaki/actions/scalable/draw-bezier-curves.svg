@@ -11,7 +11,7 @@
    viewBox="0 0 96 96"
    version="1.1"
    id="svg6"
-   sodipodi:docname="draw-bezier-curves.svg"
+   sodipodi:docname="path-mode-spiro.svg"
    inkscape:version="0.92.0 r15299">
   <metadata
      id="metadata10">
@@ -39,8 +39,8 @@
      showgrid="false"
      inkscape:snap-global="false"
      inkscape:zoom="2.4583333"
-     inkscape:cx="48"
-     inkscape:cy="48"
+     inkscape:cx="-42.305085"
+     inkscape:cy="47.999999"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -582,33 +582,7 @@
               <g
                  id="g1113"
                  style="fill:#999999;stroke:#999999"
-                 transform="translate(3.0931143,3.0931143)">
-                <path
-                   style="color:#4d4d4d;fill:#999999;fill-opacity:1;stroke:#999999;stroke-width:2.06207633;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                   d="m 87.987107,2.2596817 c -2.62959,0 -4.83199,1.680377 -5.65999,4.019301 H 29.707242 v 4.0193013 c 14.473504,0 26.125458,11.651955 26.125458,26.125458 0,7.658835 -3.304327,14.476627 -8.525315,19.240834 -0.987651,-0.724435 -2.205697,-1.153978 -3.532589,-1.153978 -3.340039,0 -6.028952,2.688912 -6.028952,6.028952 0,3.340039 2.688913,6.028951 6.028952,6.028951 2.632482,0 4.831993,-1.680377 5.659992,-4.019301 h 16.446165 v 4.019301 H 77.938856 V 54.510598 H 65.880953 v 4.019301 H 50.157007 c 5.945139,-5.498127 9.694994,-13.332412 9.694994,-22.106157 0,-11.208493 -6.071828,-20.930387 -15.10378,-26.125458 h 37.578896 c 0.828,2.338925 3.0304,4.019301 5.65999,4.019301 3.34004,0 6.02895,-2.688912 6.02895,-6.0289522 0,-3.3400391 -2.68891,-6.0289511 -6.02895,-6.0289511 z m 0,4.019301 c 1.11335,0 2.00965,0.896304 2.00965,2.0096501 0,1.1133471 -0.8963,2.0096512 -2.00965,2.0096512 -0.27833,0 -0.54442,-0.05557 -0.78502,-0.157003 -0.72178,-0.3042741 -1.22463,-1.0176371 -1.22463,-1.8526482 0,-0.278336 0.0556,-0.5444241 0.157,-0.7850191 0.30427,-0.721778 1.01764,-1.224631 1.85265,-1.224631 z M 43.774796,58.529899 c 1.113346,0 2.00965,0.896304 2.00965,2.009651 0,1.113346 -0.896304,2.00965 -2.00965,2.00965 -1.113347,0 -2.009651,-0.896304 -2.009651,-2.00965 0,-1.113347 0.896304,-2.009651 2.009651,-2.009651 z m 26.125458,0 h 4.019301 V 62.5492 h -4.019301 z"
-                   class="ColorScheme-Text"
-                   id="path1105"
-                   inkscape:connector-curvature="0" />
-                <circle
-                   style="opacity:1;fill:#999999;fill-opacity:0.99664432;stroke:#999999;stroke-width:2.06207609;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-                   id="circle1107"
-                   cx="88.70359"
-                   cy="8.1488314"
-                   r="6.710485" />
-                <circle
-                   r="6.710485"
-                   cy="60.574501"
-                   cx="43.407814"
-                   id="circle1109"
-                   style="opacity:1;fill:#999999;fill-opacity:0.99664432;stroke:#999999;stroke-width:2.06207609;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-                <rect
-                   style="fill:#999999;fill-rule:evenodd;stroke:#999999;stroke-width:1.03103805px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-                   id="rect1111"
-                   width="12.896718"
-                   height="12.477312"
-                   x="65.461548"
-                   y="54.09119" />
-              </g>
+                 transform="translate(3.0931143,3.0931143)" />
               <g
                  id="g1103">
                 <path
@@ -652,7 +626,7 @@
                  height="92"
                  width="92"
                  id="rect4146"
-                 style="opacity:0.555;fill:url(#linearGradient7466);fill-opacity:1;stroke:none"
+                 style="opacity:0.37;fill:url(#linearGradient7466);fill-opacity:1;stroke:none"
                  transform="matrix(0.93752781,0,0,0.95719245,16.851791,23.582851)" />
               <g
                  id="g1094"

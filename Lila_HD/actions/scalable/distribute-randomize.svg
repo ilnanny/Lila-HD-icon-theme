@@ -21,7 +21,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2017</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -57,8 +57,8 @@
      showgrid="false"
      showborder="true"
      inkscape:zoom="2.4583333"
-     inkscape:cx="48"
-     inkscape:cy="48"
+     inkscape:cx="-42.305085"
+     inkscape:cy="47.999999"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -587,12 +587,6 @@
                  width="86.864975"
                  id="rect4131"
                  style="opacity:0.55;fill:url(#radialGradient7462);fill-opacity:1;stroke:none;stroke-width:1.03103817" />
-              <path
-                 inkscape:connector-curvature="0"
-                 id="path4762"
-                 class="ColorScheme-Text"
-                 d="M 73.832175,4.2169065 V 21.971732 H 96.025707 V 4.2169065 Z M 29.44511,8.6556133 V 26.410439 H 51.638643 V 8.6556133 Z M 78.270887,26.410439 V 44.165265 H 100.46442 V 26.410439 Z M 51.638643,30.849145 V 48.603971 H 73.832175 V 30.849145 Z M 29.44511,53.042678 V 70.797504 H 51.638643 V 53.042678 Z m 26.632239,0 V 70.797504 H 78.270887 V 53.042678 Z"
-                 style="color:#4d4d4d;fill:#999999;fill-opacity:1;stroke:none;stroke-width:4.4387064" />
               <rect
                  transform="rotate(90)"
                  style="opacity:0.55;fill:url(#radialGradient7464);fill-opacity:1;stroke:none;stroke-width:1.03103817"
@@ -604,7 +598,7 @@
                  rx="0"
                  ry="4.3819122" />
               <path
-                 style="color:#4d4d4d;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:4.4387064"
+                 style="color:#4d4d4d;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:4.4387064"
                  d="M 70.739061,1.1237922 V 18.878618 H 92.932593 V 1.1237922 Z M 26.351996,5.562499 V 23.317325 H 48.545529 V 5.562499 Z m 48.825777,17.754826 v 17.754826 h 22.19353 V 23.317325 Z M 48.545529,27.756031 V 45.510857 H 70.739061 V 27.756031 Z M 26.351996,49.949564 V 67.70439 H 48.545529 V 49.949564 Z m 26.632239,0 V 67.70439 H 75.177773 V 49.949564 Z"
                  class="ColorScheme-Text"
                  id="path4"

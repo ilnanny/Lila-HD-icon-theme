@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2017</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -59,12 +59,12 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="4.9166667"
-     inkscape:cx="33.434781"
+     inkscape:cx="41.069345"
      inkscape:cy="68.949153"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g1088" />
+     inkscape:current-layer="g6848" />
   <defs
      id="defs3051">
     <linearGradient
@@ -76,15 +76,35 @@
        x1="10.761708">
       <stop
          offset="0"
-         style="stop-color:#127f11;stop-opacity:1"
+         style="stop-color:#14a6ea;stop-opacity:1"
          id="stop1855" />
       <stop
+         id="stop939"
+         style="stop-color:#72b9ec;stop-opacity:1"
+         offset="0.30230892" />
+      <stop
+         offset="0.42713007"
+         style="stop-color:#5c93dc;stop-opacity:1"
+         id="stop941" />
+      <stop
+         id="stop943"
+         style="stop-color:#4795d3;stop-opacity:1"
+         offset="0.50760365" />
+      <stop
+         offset="0.53780299"
+         style="stop-color:#d157d5;stop-opacity:1"
+         id="stop945" />
+      <stop
+         id="stop947"
+         style="stop-color:#e198e6;stop-opacity:1"
+         offset="0.67054075" />
+      <stop
          id="stop1863"
-         style="stop-color:#98e9ae;stop-opacity:1"
+         style="stop-color:#de98e9;stop-opacity:1"
          offset="0.7812649" />
       <stop
          offset="1"
-         style="stop-color:#9dffc0;stop-opacity:1"
+         style="stop-color:#ffa7e9;stop-opacity:1"
          id="stop1857" />
     </linearGradient>
     <style
@@ -727,24 +747,6 @@
                      id="layer1-3"
                      transform="translate(326,-496)">
                     <g
-                       transform="matrix(0.96395564,0,0,0.96395564,0.2781885,37.683032)"
-                       id="g6854"
-                       style="fill:#999999">
-                      <path
-                         style="fill:#999999;fill-opacity:1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round"
-                         d="M 16,4 V 5 H 5 V 16 H 4 v 2 H 6 V 17 H 17 V 6 h 1 V 4 Z"
-                         id="path6850"
-                         inkscape:connector-curvature="0"
-                         transform="translate(0,1030.36)" />
-                      <path
-                         style="color:#4d4d4d;fill:#999999;fill-opacity:1;stroke:none"
-                         d="m 15,3 v 3.2929688 l -2,2 L 9.8183594,11.474609 6.2929688,15 H 3 v 4 H 7 V 15.707031 L 10.525391,12.181641 13.707031,9 l 2,-2 H 19 V 3 Z m 1,1 h 2 V 6 H 16 Z M 4,16 h 2 v 2 H 4 Z"
-                         class="ColorScheme-Text"
-                         id="path6852"
-                         inkscape:connector-curvature="0"
-                         transform="translate(0,1030.36)" />
-                    </g>
-                    <g
                        id="g6848"
                        transform="matrix(0.96395564,0,0,0.96395564,-0.1580407,37.246802)">
                       <path
@@ -752,7 +754,7 @@
                          inkscape:connector-curvature="0"
                          id="rect4156"
                          d="M 16,4 V 5 H 5 V 16 H 4 v 2 H 6 V 17 H 17 V 6 h 1 V 4 Z"
-                         style="fill:url(#linearGradient1861);fill-opacity:1;stroke-width:6;stroke-linecap:round;stroke-linejoin:round" />
+                         style="fill:url(#linearGradient1861);fill-opacity:1;stroke-width:0.04525407;stroke-linecap:round;stroke-linejoin:round;stroke:#fefb27;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none" />
                       <path
                          transform="translate(0,1030.36)"
                          inkscape:connector-curvature="0"
@@ -773,7 +775,7 @@
                  height="92"
                  width="92"
                  id="rect4146"
-                 style="fill:url(#linearGradient7466);fill-opacity:1;stroke:none"
+                 style="fill:url(#linearGradient7466);fill-opacity:1;stroke:none;opacity:0.345"
                  transform="matrix(0.93752781,0,0,0.95719245,16.851791,23.582851)" />
               <g
                  id="g1094"
