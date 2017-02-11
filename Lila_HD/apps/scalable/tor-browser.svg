@@ -14,8 +14,8 @@
    height="96"
    id="svg5023"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="1-hardware-template.svg">
+   inkscape:version="0.92.0 r"
+   sodipodi:docname="tor-browser.svg">
   <defs
      id="defs5025">
     <linearGradient
@@ -72,11 +72,15 @@
     <linearGradient
        id="linearGradient3921">
       <stop
-         style="stop-color:#2cffee;stop-opacity:1;"
+         style="stop-color:#6cff8f;stop-opacity:1"
          offset="0"
          id="stop3923" />
       <stop
-         style="stop-color:#00586e;stop-opacity:1;"
+         id="stop910"
+         offset="0.15094215"
+         style="stop-color:#b1f9c1;stop-opacity:1" />
+      <stop
+         style="stop-color:#00af1e;stop-opacity:1"
          offset="1"
          id="stop3925" />
     </linearGradient>
@@ -442,6 +446,33 @@
        r="43.66917"
        gradientTransform="matrix(0.99644551,0,0,0.90132673,-33.368438,-37.815654)"
        gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient943">
+      <stop
+         style="stop-color:#f4f6f6;stop-opacity:1"
+         offset="0"
+         id="stop939" />
+      <stop
+         id="stop947"
+         offset="0.48371461"
+         style="stop-color:#e8edeb;stop-opacity:1" />
+      <stop
+         style="stop-color:#f4f6f4;stop-opacity:1"
+         offset="1"
+         id="stop941" />
+    </linearGradient>
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient943"
+       id="radialGradient970"
+       cx="8.2350435"
+       cy="5.1794944"
+       fx="8.2350435"
+       fy="5.1794944"
+       r="22.561766"
+       gradientTransform="matrix(1,0,0,1.356745,0,-1.3219484)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -450,25 +481,27 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="6.0691462"
-     inkscape:cx="35.321232"
-     inkscape:cy="63.348333"
-     inkscape:current-layer="layer3"
+     inkscape:zoom="4.2915344"
+     inkscape:cx="46.339538"
+     inkscape:cy="44.706982"
+     inkscape:current-layer="g955"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="966"
+     inkscape:window-height="971"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="27"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:snap-global="false">
+     inkscape:snap-global="true"
+     inkscape:snap-object-midpoints="true">
     <sodipodi:guide
        orientation="0,1"
        position="74,7.75"
-       id="guide4116" />
+       id="guide4116"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="metadata5028">
@@ -478,7 +511,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -609,6 +642,33 @@
              d="m 4.468875,-31.4 c -2.192171,0 -3.96400836,1.776584 -3.96875,3.96875 l -0.163,75.3585 c 2.1045603,2.715549 1.8313808,2.596758 5.3354114,2.88575 1.9841699,-16.007558 40.1394806,-78.99425 85.1400886,-78.99425 0.536758,0 1.059349,0.02139 1.59375,0.03125 -0.333067,-1.850574 -1.925648,-3.25 -3.875,-3.25 z"
              id="rect4190"
              inkscape:connector-curvature="0" />
+          <g
+             transform="matrix(1.1735687,0,0,1.1341756,31.397607,5.5068871)"
+             id="g955">
+            <g
+               id="text918"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.78646851px;line-height:54.86653519px;font-family:'RACE1 Brannt Plus Chiseled NCV';-inkscape-font-specification:'RACE1 Brannt Plus Chiseled NCV';letter-spacing:0px;word-spacing:0px;opacity:0.77999998;fill:#0e232e;fill-opacity:1;stroke:none;stroke-width:2.19466186px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               transform="scale(0.9883098,1.0118285)"
+               aria-label="T">
+              <path
+                 sodipodi:nodetypes="ccccccccccccccccccccccc"
+                 inkscape:connector-curvature="0"
+                 id="path920"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'RACE1 Brannt Plus Chiseled NCV';-inkscape-font-specification:'RACE1 Brannt Plus Chiseled NCV';fill:#0e232e;fill-opacity:1;stroke:#275e65;stroke-width:0.39832649;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="m 25.632367,33.02216 v -44.858886 l 9.922247,1.618219 2.016713,-1.618219 V -28.340582 H -7.550918 l -2.182856,1.966868 2.182856,14.536988 H 4.3880417 V 33.02216 l 19.2915013,0.687469 z m -10.622163,-7.637423 -0.25844,-43.318146 8.272804,6.578935 -0.587409,41.677487 z M 30.02169,-20.000867 H -0.00128174 l -6.20444376,-5.755146 41.1395585,0.229156 -0.234964,10.964193 z" />
+            </g>
+            <g
+               id="text914"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:87.0140152px;line-height:54.38375473px;font-family:'RACE1 Brannt Plus Chiseled NCV';-inkscape-font-specification:'RACE1 Brannt Plus Chiseled NCV';letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2.17535043px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+               transform="scale(1.0007547,0.99924587)"
+               aria-label="T">
+              <path
+                 inkscape:connector-curvature="0"
+                 id="path923"
+                 style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'RACE1 Brannt Plus Chiseled NCV';-inkscape-font-specification:'RACE1 Brannt Plus Chiseled NCV';fill:#ffffff;fill-opacity:1;stroke:#275e65;stroke-width:0.39832649;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+                 d="M 23.278568,34.116982 V -10.34718 H 35.112474 V -26.705815 H -9.6127295 v 16.358635 h 11.833906 v 44.464162 z m -10.528696,-7.57022 v -44.986246 l 8.87543,6.526051 V 32.463715 Z M 27.629269,-18.439484 H -2.1295242 l -5.9169531,-6.613065 H 33.546222 v 13.139116 z" />
+            </g>
+          </g>
         </g>
         <rect
            ry="4.0419307"
