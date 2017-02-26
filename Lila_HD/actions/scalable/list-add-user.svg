@@ -15,7 +15,7 @@
    id="svg5023"
    version="1.1"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="list-resource-add.svg">
+   sodipodi:docname="list-add-user.svg">
   <defs
      id="defs5025">
     <linearGradient
@@ -269,17 +269,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="-67.04918"
+     inkscape:zoom="2.8284271"
+     inkscape:cx="40.493475"
      inkscape:cy="44.039604"
      inkscape:current-layer="g4060"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="971"
+     inkscape:window-height="972"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -297,7 +297,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -348,7 +348,7 @@
         <path
            sodipodi:nodetypes="sssssssss"
            inkscape:connector-curvature="0"
-           style="color:#000000;fill:#0e232e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:#637583;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m -25.620124,-37.408678 80.627164,0 c 2.627498,0 4.742774,2.063272 4.742774,4.626172 l 0,71.705638 c 0,2.562899 -2.115276,4.62617 -4.742774,4.62617 l -80.627164,0 c -2.627496,0 -4.742773,-2.063271 -4.742773,-4.62617 l 0,-71.705638 c 0,-2.5629 2.115277,-4.626172 4.742773,-4.626172 z"
            id="path4970" />
         <g
@@ -401,18 +401,21 @@
            id="rect4141"
            style="opacity:0.55;fill:url(#radialGradient4143);fill-opacity:1;stroke:none"
            transform="matrix(0,1,-1,0,0,0)" />
-        <text
-           xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:76.51294708px;line-height:25.61817551px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.95800003;fill:#009100;fill-opacity:1;stroke:#b50000;stroke-width:0.30741811;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers;"
-           x="0.70369095"
-           y="-9.6509943"
-           id="text1311"
-           transform="matrix(0.00456106,0.9992355,-1.0007443,0.00455419,0,0)"><tspan
-             sodipodi:role="line"
-             id="tspan1309"
-             x="0.70369095"
-             y="-9.6509943"
-             style="fill:#009100;fill-opacity:1;stroke-width:0.30741811;">+</tspan></text>
+        <g
+           aria-label="+"
+           transform="matrix(0.00456106,0.9992355,-1.0007443,0.00455419,0,0)"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:76.51294708px;line-height:25.61817551px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;opacity:0.95800003;fill:#009100;fill-opacity:1;stroke:#b50000;stroke-width:0.30741811;stroke-linecap:round;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+           id="text1311">
+          <path
+             d="M 19.296337,-42.551562 H 4.6058512 v 9.028528 H 19.296337 v 14.920025 h 9.181554 v -14.920025 h 14.690486 v -9.028528 H 28.477891 v -14.920024 h -9.181554 z"
+             style="fill:#009100;fill-opacity:1;stroke-width:1.33214511;stroke:#010101;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+             id="path4555" />
+          <path
+             style="fill:#005a00;fill-opacity:1;stroke-width:1.00000001;stroke:#010101;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+             d="M 75.443359 45.962891 L 66.632812 46.003906 L 66.646484 49.003906 L 75.443359 48.962891 L 75.509766 63.298828 L 90.068359 63.232422 L 90.095703 69.191406 L 90.109375 69.191406 L 90.068359 60.232422 L 75.509766 60.298828 L 75.443359 45.962891 z M 66.685547 60.337891 L 52.138672 60.404297 L 52.152344 63.404297 L 66.699219 63.337891 L 66.685547 60.337891 z M 75.548828 72.257812 L 75.601562 83.59375 L 75.615234 83.59375 L 75.5625 72.257812 L 75.548828 72.257812 z "
+             transform="matrix(0.00467032,-1.0247163,1.0247164,0.00467032,-42.845317,34.541993)"
+             id="path4558" />
+        </g>
       </g>
       <g
          style="opacity:0.7"
