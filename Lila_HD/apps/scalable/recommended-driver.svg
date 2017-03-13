@@ -14,7 +14,7 @@
    height="96"
    id="svg3744"
    sodipodi:version="0.32"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.1 r15371"
    version="1.0"
    sodipodi:docname="recommended-driver.svg"
    inkscape:output_extension="org.inkscape.output.svg.inkscape"
@@ -28,10 +28,10 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.528148"
-     inkscape:cx="-12.549619"
-     inkscape:cy="15.5"
-     inkscape:current-layer="g3272"
+     inkscape:zoom="8.2066054"
+     inkscape:cx="52.945587"
+     inkscape:cy="48.644033"
+     inkscape:current-layer="g3870"
      showgrid="false"
      inkscape:document-units="px"
      inkscape:grid-bbox="true"
@@ -43,7 +43,7 @@
      inkscape:window-width="1280"
      inkscape:window-height="1024"
      inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:window-y="26"
      inkscape:window-maximized="0">
     <inkscape:grid
        type="xygrid"
@@ -452,17 +452,6 @@
        x2="18.554882"
        y1="-98.684196"
        x1="-19.139587" />
-    <radialGradient
-       r="5.5"
-       fy="12.428571"
-       fx="8.5"
-       cy="12.428571"
-       cx="8.5"
-       gradientTransform="matrix(1.7753659,-4.3510474e-8,3.6444659e-8,1.4870582,-6.2600555,-6.8316562)"
-       gradientUnits="userSpaceOnUse"
-       id="radialGradient3302"
-       xlink:href="#linearGradient3237"
-       inkscape:collect="always" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient4644"
@@ -482,6 +471,15 @@
        y1="3.0126896"
        x2="56.280174"
        y2="-34.779079"
+       gradientUnits="userSpaceOnUse" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3237"
+       id="linearGradient923"
+       x1="2.5572886"
+       y1="7.169446"
+       x2="15.103819"
+       y2="7.169446"
        gradientUnits="userSpaceOnUse" />
   </defs>
   <metadata
@@ -591,14 +589,14 @@
                  transform="translate(-1.0797203,1.0013407)">
                 <path
                    inkscape:connector-curvature="0"
-                   style="opacity:0.2;fill:#f2ff0a"
+                   style="opacity:0.401;fill:#f2ff0a"
                    d="m 8.8305541,0 c -3.9575342,0 -7.169446,3.2119118 -7.169446,7.1694459 0,3.9575341 3.2119118,7.1694461 7.169446,7.1694461 C 12.788088,14.338892 16,11.12698 16,7.1694459 16,3.2119118 12.788088,0 8.8305541,0 Z m 0,0.89618074 c 3.4628419,0 6.2732649,2.81042276 6.2732649,6.27326516 0,3.4628421 -2.810423,6.2732651 -6.2732649,6.2732651 -3.4628424,0 -6.2732652,-2.810423 -6.2732652,-6.2732651 0,-3.4628424 2.8104228,-6.27326516 6.2732652,-6.27326516 z"
                    id="path3292" />
                 <circle
                    r="6.2732654"
                    cy="7.169446"
                    cx="8.830554"
-                   style="fill:url(#radialGradient3302)"
+                   style="fill:url(#linearGradient923);fill-opacity:1"
                    id="path3294" />
                 <path
                    inkscape:connector-curvature="0"
@@ -609,7 +607,7 @@
                    r="6.2732654"
                    cy="7.169446"
                    cx="8.830554"
-                   style="opacity:0.5;fill:none;stroke:#1d430b;stroke-width:0.89618075;stroke-linecap:round;stroke-linejoin:round"
+                   style="opacity:0.638;fill:none;stroke:#0a1704;stroke-width:0.89618075;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
                    id="path4052" />
               </g>
             </g>
