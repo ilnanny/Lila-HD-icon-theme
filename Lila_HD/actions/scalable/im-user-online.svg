@@ -14,7 +14,7 @@
    height="96"
    id="svg5023"
    version="1.1"
-   inkscape:version="0.92.0 r15299"
+   inkscape:version="0.92.1 r15371"
    sodipodi:docname="im-user-online.svg">
   <defs
      id="defs5025">
@@ -72,11 +72,11 @@
     <linearGradient
        id="linearGradient3921">
       <stop
-         style="stop-color:#2cffee;stop-opacity:1;"
+         style="stop-color:#a2ff96;stop-opacity:1"
          offset="0"
          id="stop3923" />
       <stop
-         style="stop-color:#00586e;stop-opacity:1;"
+         style="stop-color:#0e6e00;stop-opacity:1"
          offset="1"
          id="stop3925" />
     </linearGradient>
@@ -261,6 +261,17 @@
        fx="13.948145"
        fy="44.892843"
        r="43.199203" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient3921"
+       id="radialGradient888"
+       cx="14.693458"
+       cy="3.070312"
+       fx="14.693458"
+       fy="3.070312"
+       r="45.056355"
+       gradientTransform="matrix(1.3446448,-0.33369713,0.27748456,1.1147654,-5.9159876,4.5507989)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -269,17 +280,17 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="-9.79918"
-     inkscape:cy="44.039604"
+     inkscape:zoom="2.1793252"
+     inkscape:cx="-27.36065"
+     inkscape:cy="43.390681"
      inkscape:current-layer="g4060"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="998"
+     inkscape:window-height="972"
      inkscape:window-x="0"
-     inkscape:window-y="0"
+     inkscape:window-y="26"
      inkscape:window-maximized="1"
      showguides="true"
      inkscape:guide-bbox="true">
@@ -297,7 +308,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -348,7 +359,7 @@
         <path
            sodipodi:nodetypes="sssssssss"
            inkscape:connector-curvature="0"
-           style="color:#000000;fill:#38d35e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
+           style="color:#000000;fill:url(#radialGradient888);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate"
            d="m -25.620124,-37.408678 80.627164,0 c 2.627498,0 4.742774,2.063272 4.742774,4.626172 l 0,71.705638 c 0,2.562899 -2.115276,4.62617 -4.742774,4.62617 l -80.627164,0 c -2.627496,0 -4.742773,-2.063271 -4.742773,-4.62617 l 0,-71.705638 c 0,-2.5629 2.115277,-4.626172 4.742773,-4.626172 z"
            id="path4970" />
         <g
