@@ -53,17 +53,6 @@
          id="stop6143-4" />
     </linearGradient>
     <radialGradient
-       inkscape:collect="always"
-       xlink:href="#d-4"
-       id="radialGradient912"
-       cx="48.283974"
-       cy="45.083744"
-       fx="48.283974"
-       fy="45.083744"
-       r="42.017857"
-       gradientTransform="matrix(1,0,0,0.91583678,0,4.2941461)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
        id="d-4"
        gradientUnits="userSpaceOnUse"
        cy="66.449997"
@@ -74,12 +63,12 @@
          stop-color="#2782e9"
          offset="0"
          id="stop31-8"
-         style="stop-color:#8fc6f4;stop-opacity:1" />
+         style="stop-color:#87eafc;stop-opacity:1" />
       <stop
          stop-color="#193693"
          offset="1"
          id="stop33-0"
-         style="stop-color:#065fb3;stop-opacity:1" />
+         style="stop-color:#009be3;stop-opacity:1" />
     </radialGradient>
     <linearGradient
        gradientUnits="userSpaceOnUse"
@@ -172,6 +161,17 @@
        fx="13.948145"
        fy="44.892841"
        r="43.199203" />
+    <radialGradient
+       inkscape:collect="always"
+       xlink:href="#d-4"
+       id="radialGradient866"
+       cx="48.283974"
+       cy="45.5835"
+       fx="48.283974"
+       fy="45.5835"
+       r="42.017857"
+       gradientTransform="matrix(1,0,0,0.91583684,0,3.8364516)"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -180,8 +180,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="8.2227701"
-     inkscape:cx="9.5573614"
+     inkscape:zoom="1.893125"
+     inkscape:cx="-30.943983"
      inkscape:cy="46.657026"
      inkscape:document-units="px"
      inkscape:current-layer="g932"
@@ -286,7 +286,7 @@
          id="rect4251-1"
          inkscape:connector-curvature="0" />
       <path
-         style="display:inline;opacity:0.87000002;fill:url(#radialGradient912);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03218722"
+         style="display:inline;opacity:1;fill:url(#radialGradient866);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.03218722"
          d="m 11.390247,7.102 c -2.8564964,0 -5.1241284,2.3003292 -5.1241284,5.198008 V 33.83925 41.116463 81.238585 C 7.3633585,82.931866 9.2349671,84.065 11.390247,84.065 h 4.099303 65.588849 4.099302 c 2.155281,0 4.026889,-1.133134 5.124129,-2.826415 V 41.116463 33.83925 12.300008 C 90.30183,9.4023292 88.034198,7.102 85.177701,7.102 Z"
          id="path3400-6"
          inkscape:connector-curvature="0"
