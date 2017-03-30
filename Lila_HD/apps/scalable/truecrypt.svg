@@ -20,6 +20,21 @@
   <defs
      id="defs1066">
     <linearGradient
+       id="linearGradient977">
+      <stop
+         offset="0"
+         style="stop-color:#cfcfcf;stop-opacity:1"
+         id="stop971" />
+      <stop
+         offset="0.39128959"
+         style="stop-color:#f2f2f2;stop-opacity:1"
+         id="stop973" />
+      <stop
+         offset="1"
+         style="stop-color:#acacac;stop-opacity:1"
+         id="stop975" />
+    </linearGradient>
+    <linearGradient
        y2="47.000011"
        x2="90"
        y1="47.000011"
@@ -155,7 +170,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient3763"
+       xlink:href="#linearGradient977"
        id="linearGradient1399"
        x1="-24.167505"
        y1="-99.320786"
@@ -516,8 +531,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.1386207"
-     inkscape:cx="21.718356"
+     inkscape:zoom="8.5191133"
+     inkscape:cx="34.211609"
      inkscape:cy="44.557005"
      inkscape:document-units="px"
      inkscape:current-layer="g1491"
@@ -538,7 +553,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2017</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -659,7 +674,7 @@
            y="-167.8121"
            transform="rotate(-90)"
            id="rect3620"
-           style="opacity:0.97100004;fill:url(#linearGradient1399);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.10386562" />
+           style="opacity:1;fill:url(#linearGradient1399);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.10386562" />
         <rect
            width="6.6281915"
            height="15.442465"
