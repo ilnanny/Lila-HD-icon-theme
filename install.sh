@@ -22,9 +22,9 @@ sudo rm -rf /usr/share/icons/Lila_HD_Green
 sudo rm -rf /usr/share/icons/Lila_HD_Kaki
 echo
 echo
-echo "Clone Repo:"
+#echo "Clone Repo:"
 echo
-git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
+#git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
 echo
 echo
 echo
@@ -50,3 +50,9 @@ echo
 exit 
 echo
 #by ilnanny (cristianpozzessere@gmail.com)
+echo
+#Installation Complete 
+echo
+#Close your Terminal now
+echo
+#Enjoy
