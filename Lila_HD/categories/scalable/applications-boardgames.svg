@@ -15,7 +15,7 @@
    viewBox="0 0 96.000001 96.000004"
    version="1.1"
    id="svg1072"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.1 r"
    sodipodi:docname="applications-boardgames.svg">
   <defs
      id="defs1066">
@@ -138,7 +138,7 @@
        fx="170"
        cy="368.75452"
        cx="170"
-       gradientTransform="matrix(1.797147,0,0,1.8028746,-135.51499,-292.45597)"
+       gradientTransform="matrix(0.38920083,0,0,0.39044123,-29.257631,-109.39304)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient3853"
        xlink:href="#linearGradient3798"
@@ -165,7 +165,7 @@
        fx="280"
        cy="414.02884"
        cx="280"
-       gradientTransform="matrix(2,0,0,2,-280,-415.69551)"
+       gradientTransform="matrix(0.68418019,0,0,0.68418019,-145.58645,-241.19533)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient3855"
        xlink:href="#linearGradient4465"
@@ -187,7 +187,7 @@
        fx="282.77747"
        cy="414.58432"
        cx="282.77747"
-       gradientTransform="matrix(2,0,0,2,-280,-415.69551)"
+       gradientTransform="matrix(0.68418019,0,0,0.68418019,-128.79937,-241.19533)"
        gradientUnits="userSpaceOnUse"
        id="radialGradient3857"
        xlink:href="#linearGradient4316"
@@ -213,7 +213,7 @@
        fy="416.66782"
        r="20"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.7792407,-1.9540294e-4,1.7143489e-4,1.5609016,-226.05218,-236.84694)" />
+       gradientTransform="matrix(0.60866061,-6.6845411e-5,5.8646178e-5,0.53396898,-94.716489,-180.01301)" />
     <linearGradient
        id="linearGradient4519">
       <stop
@@ -233,8 +233,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.21934"
-     inkscape:cx="-4.7109836"
+     inkscape:zoom="3.1386207"
+     inkscape:cx="40.068593"
      inkscape:cy="44.557005"
      inkscape:document-units="px"
      inkscape:current-layer="g2574"
@@ -243,9 +243,9 @@
      units="px"
      inkscape:lockguides="false"
      inkscape:window-width="1280"
-     inkscape:window-height="972"
+     inkscape:window-height="971"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="25"
      inkscape:window-maximized="1" />
   <metadata
      id="metadata1069">
@@ -255,7 +255,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2017</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -352,36 +352,29 @@
          y="-90.233963"
          rx="0"
          ry="4.25" />
-      <g
-         transform="matrix(0.21656594,0,0,0.21656594,2.0903002,-46.057039)"
-         id="g1100">
-        <path
-           id="path3019"
-           d="m 190,272.375 c -82.84271,0 -150,67.15729 -150,150 0,82.84271 67.15729,150 150,150 53.64046,0 100.70345,-28.16102 127.21875,-70.5 L 190,422.375 317.21875,342.875 C 290.70489,300.52903 243.64576,272.375 190,272.375 Z"
-           style="fill:url(#radialGradient3853);fill-opacity:1;fill-rule:evenodd;stroke:none"
-           inkscape:connector-curvature="0" />
-        <circle
-           r="20"
-           cy="422.36218"
-           cx="290"
-           transform="translate(-36.940251)"
-           id="path3024"
-           style="fill:url(#radialGradient3855);fill-opacity:1;fill-rule:evenodd;stroke:none" />
-        <circle
-           r="20"
-           cy="422.36218"
-           cx="290"
-           transform="translate(23.824685)"
-           style="fill:url(#radialGradient3857);fill-opacity:1;fill-rule:evenodd;stroke:none"
-           id="path3828" />
-        <circle
-           r="20"
-           cy="422.36218"
-           cx="290"
-           id="path3832"
-           style="fill:url(#radialGradient4314);fill-opacity:1;fill-rule:evenodd;stroke:none"
-           transform="translate(75.354571)" />
-      </g>
+      <circle
+         style="fill:url(#radialGradient3855);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3420901"
+         id="path3024"
+         cx="49.404911"
+         cy="45.495907"
+         r="6.8418021" />
+      <path
+         inkscape:connector-curvature="0"
+         style="fill:url(#radialGradient3853);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.21656594"
+         d="m 41.237829,12.930109 c -17.94091,0 -32.4848912,14.543982 -32.4848912,32.484891 0,17.940909 14.5439812,32.484891 32.4848912,32.484891 11.616696,0 21.808937,-6.098718 27.551248,-15.267899 L 41.237829,45.415 68.789077,28.198008 C 63.047078,19.027313 52.855673,12.930109 41.237829,12.930109 Z"
+         id="path3019" />
+      <circle
+         id="path3828"
+         style="fill:url(#radialGradient3857);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3420901"
+         cx="66.191986"
+         cy="45.495907"
+         r="6.8418021" />
+      <circle
+         style="fill:url(#radialGradient4314);fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.3420901"
+         id="path3832"
+         cx="81.819847"
+         cy="45.495907"
+         r="6.8418021" />
       <circle
          r="4.3313189"
          cy="25.673248"
