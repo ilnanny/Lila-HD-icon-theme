@@ -28,6 +28,7 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
  <P>rm -rf /usr/share/icons/Lila_HD_Dark</P>
  <P>rm -rf /usr/share/icons/Lila_HD_Green</P>
  <P>rm -rf /usr/share/icons/Lila_HD_Kaki</P>
+ <P>rm -rf /usr/share/icons/Lila_HD_Light-Grey</P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 *Clone Repo:
 
@@ -40,6 +41,7 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/</P>
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/</P>
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/</P>
+<P>cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/</P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade></P>
 *Update icon-cache:
 
@@ -48,6 +50,7 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
 <P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Blue</P>
 <P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Dark</P>
 <P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Green</P>
+<P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Light-Grey</P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 *Remove downloaded folder:
 

@@ -15,7 +15,7 @@ Icon theme for Gnu Linux Operation Sistem
  rm -rf /usr/share/icons/Lila_HD_Dark
  rm -rf /usr/share/icons/Lila_HD_Green
  rm -rf /usr/share/icons/Lila_HD_Kaki
-
+ rm -rf /usr/share/icons/Lila_HD_Light-Grey
 
 *Clone Repo:
 
@@ -30,7 +30,7 @@ cp -r Lila-HD-icon-theme/Lila_HD_Blue /usr/share/icons/
 cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/
 cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/
 cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/
-
+cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/
 
 *Update icon-cache:
 
@@ -39,7 +39,7 @@ gtk-update-icon-cache /usr/share/icons/Lila_HD_Kaki
 gtk-update-icon-cache /usr/share/icons/Lila_HD_Blue
 gtk-update-icon-cache /usr/share/icons/Lila_HD_Dark
 gtk-update-icon-cache /usr/share/icons/Lila_HD_Green
-
+gtk-update-icon-cache /usr/share/icons/Lila_HD_Light-Grey
 
 *Remove downloaded folder:
 
