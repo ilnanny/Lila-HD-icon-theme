@@ -5,13 +5,9 @@ echo "Icon theme for Gnu Linux Operation Sistem "
 echo
 #---------------------------------------------
 
-# install *GitHub*
+#How to install *GitHub*
 echo "All commands will be executed as root"
 echo
-if [ "$UID" -ne "$ROOT_UID" ]
-then
-exit $E_NONROOT
-fi  
 echo
 echo "Remove older Version For Lila_HD_Icon_Theme:"
 echo
@@ -22,9 +18,9 @@ sudo rm -rf /usr/share/icons/Lila_HD_Green
 sudo rm -rf /usr/share/icons/Lila_HD_Kaki
 echo
 echo
-#echo "Clone Repo:"
+echo "Clone Repo:"
 echo
-#git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
+git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
 echo
 echo
 echo
@@ -47,12 +43,8 @@ sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Green
 echo
 echo
 echo
-exit 
-echo
-#by ilnanny (cristianpozzessere@gmail.com)
-echo
-#Installation Complete 
-echo
-#Close your Terminal now
-echo
-#Enjoy
+echo "by ilnanny (cristianpozzessere@gmail.com)"
+echo "#########################"
+echo "## CLOSE YOUR TERMINAL ##"
+echo "#########################"
+exit    
