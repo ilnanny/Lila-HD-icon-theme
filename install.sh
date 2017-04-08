@@ -44,8 +44,9 @@ sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Dark
 sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Green
 sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Light-Grey
 echo
-echo
-echo
+echo "*Remove downloaded folder:"
+rm -rf Lila-HD-icon-theme
+echo "Enjoy"
 echo            "by ilnanny (cristianpozzessere@gmail.com)"
 echo            "#########################"
 echo            "## CLOSE YOUR TERMINAL ##"

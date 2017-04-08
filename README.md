@@ -3,7 +3,7 @@
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <b>Lila HD icon theme for Gnu-Linux and Unix-like O.S</b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<img src="https://github.com/ilnanny/Lila-hd-icon-theme/blob/master/Lila-HD-Icon-theme-2.6-Preview.jpg?raw=true"Lila HD icon Theme Master">  
+<img src="https://github.com/ilnanny/Lila-hd-icon-theme/blob/master/Lila-HD-Icon-theme-3.0-Preview.jpg?raw=true"Lila HD icon Theme Master">  
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 Icons are licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
