@@ -4,8 +4,7 @@
 Name=Lila HD Dark
 Inherits=hicolor,oxygen
 Comment=Icon theme for Gnu Linux Operation Sistem 
-
-Directories=actions/scalable,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,emotes/scalable,mimetypes/scalable,places/scalable,status/scalable,stock/scalable
+Directories=actions/scalable,apps/scalable,categories/scalable,devices/scalable,emblems/scalable,emotes/scalable,mimetypes/scalable,notifications/scalable,places/scalable,status/scalable,stock/scalable
 
      
 
@@ -58,6 +57,13 @@ Type=Scalable
 MinSize=16
 MaxSize=512
 
+[notifications/scalable]
+Size=96
+Context=Notifications
+Type=Scalable
+MinSize=16
+MaxSize=512
+
 [places/scalable]
 Size=96
 Context=Places
@@ -78,6 +84,7 @@ Context=Status
 Type=Scalable
 MinSize=16
 MaxSize=512
+
 
 
 
