@@ -33,7 +33,9 @@ sudo cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/
 sudo cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/
 sudo cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/
 sudo cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/
-echo
+sudo cp -r Lila-HD-icon-theme/Lila-HD /usr/share/icons/
+sudo update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/Lila-HD/cursor.theme 55
+sudo update-alternatives --set x-cursor-theme /usr/share/icons/Lila-HD/cursor.theme
 echo
 echo "Update icon-cache:"
 echo
@@ -43,6 +45,7 @@ sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Blue
 sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Dark
 sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Green
 sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Light-Grey
+sudo gtk-update-icon-cache /usr/share/icons/Lila-HD
 echo
 echo "*Remove downloaded folder:"
 rm -rf Lila-HD-icon-theme

@@ -42,6 +42,12 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/</P>
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/</P>
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/</P>
+<P>cp -r Lila-HD-icon-theme/Lila-HD /usr/share/icons/</P>
+
+*Install Cursor-Theme:
+
+<P>update-alternatives --install /usr/share/icons/default/index.theme x-cursor-theme /usr/share/icons/Lila-HD/cursor.theme 55</P>
+<P>update-alternatives --set x-cursor-theme /usr/share/icons/Lila-HD/cursor.theme</P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade></P>
 *Update icon-cache:
 
@@ -51,6 +57,7 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
 <P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Dark</P>
 <P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Green</P>
 <P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Light-Grey</P>
+<P>gtk-update-icon-cache /usr/share/icons/Lila-HD</P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 *Remove downloaded folder:
 
