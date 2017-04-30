@@ -31,6 +31,7 @@ cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/
 cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/
 cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/
 cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/
+mv /usr/share/icons/default /usr/share/icons/default-bk
 cp -r Lila-HD-icon-theme/default /usr/share/icons/
 
 

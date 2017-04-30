@@ -33,6 +33,7 @@ sudo cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/
 sudo cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/
 sudo cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/
 sudo cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/
+sudo mv /usr/share/icons/default /usr/share/icons/default-bk
 sudo cp -r Lila-HD-icon-theme/default /usr/share/icons/
 
 echo

@@ -42,6 +42,7 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/</P>
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/</P>
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/</P>
+<P>mv /usr/share/icons/default /usr/share/icons/default-bk</P>
 <P>cp -r Lila-HD-icon-theme/default /usr/share/icons/</P>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade></P>
