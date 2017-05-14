@@ -1,9 +1,8 @@
-
 # Lila-hd-icon-theme
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <b>Lila HD icon theme for Gnu-Linux and Unix-like O.S</b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<img src="https://github.com/ilnanny/Lila-HD-icon-theme/blob/master/Lila-HD-Icon-theme-3.0-Preview.png?raw=true"Lila HD icon Theme Master"> 
+<img src="https://github.com/ilnanny/Lila-HD-icon-theme/blob/master/Lila-HD-Icon-theme-3.0-Preview.png?raw=true"Lila HD icon Theme Master">
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 Icons are licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
@@ -35,7 +34,7 @@ The software used for drawing and coloring are: Inkscape. ( https://inkscape.org
  git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 *Copy folder in your directory:
-       
+
 <P>cp -r Lila-HD-icon-theme/Lila_HD /usr/share/icons/</P>
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Blue /usr/share/icons/</P>
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/</P>
@@ -66,13 +65,13 @@ Donate:
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-#How to install to *Fedora 22/23*
-<P>For Fedora 23 run the following as root</P>
-dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_23/home:Pival81.repo
+#How to install to *Fedora 24/25*
+<P>For Fedora 25 run the following as root</P>
+dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_25/home:Pival81.repo
 dnf install lila-hd-icon-theme
 
-<P>For Fedora 22 run the following as root</P>
-dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_22/home:Pival81.repo
+<P>For Fedora 24 run the following as root</P>
+dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_24/home:Pival81.repo
 dnf install lila-hd-icon-theme
 
 <b>Thanks to <b><a href="https://github.com/Pival81" target="_blank">Piva81</a></b></b>
@@ -130,5 +129,3 @@ Video : <a href="https://www.youtube.com/watch?v=oF1cSRwulas" target="_blank">Yo
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="License Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Lila HD Icon Theme</span> di<a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ilnanny/Lila-hd-icon-theme" property="cc:attributionName" rel="cc:attributionURL">Cristian Pozzessere (aka) ilnanny</a> It is distributed with License <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>.<br />Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ilnanny/Lila-hd-icon-theme" rel="dct:source">https://github.com/ilnanny/Lila-hd-icon-theme</a>.<br />Permits more than the purpose of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ilnanny/Lila-hd-icon-theme" rel="cc:morePermissions">https://github.com/ilnanny/Lila-hd-icon-theme</a>.
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-
-
