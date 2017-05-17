@@ -12,8 +12,8 @@ If you like my work, buy me a Drink.
 <b>PayPal:</b>
 https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )
-<b>Tested in Debian and Archlinux on Gnome , XFCE ,Cinnamon ,Mate </b>
+<P><b>The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )</b></P>
+<b>Tested on Gentoo ,Debian ,Archlinux,Fedora ,Ubuntu on Gnome,XFCE,Cinnamon,Mate,Kde and openbox wm </b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 #How to install *GitHub*
@@ -105,7 +105,7 @@ zypper install lila-hd-icon-theme
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 #How to install *PPA*
-<P>For Ubuntu 16.04 Xenial/15.10 Wily/14.04 Trusty/12.04 Precise/Linux Mint 17.x/13/other related Ubuntu derivatives</P>
+<P>For Ubuntu 17.04 /16.04 Xenial/15.10 Wily/14.04 Trusty/12.04 Precise/Linux Mint 17.x/13/other related Ubuntu derivatives</P>
 <P>To install Lila-HD Icons in Ubuntu/Linux Mint open Terminal (Press Ctrl+Alt+T) and copy the following commands in the terminal:</P>
 <P>Terminal Commands:</P>
 <P>sudo add-apt-repository ppa:noobslab/icons</P>
