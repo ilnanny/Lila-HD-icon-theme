@@ -13,7 +13,7 @@ If you like my work, buy me a Drink.
 https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <P><b>The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )</b></P>
-<b>Tested on Gentoo ,Debian ,Archlinux,Fedora ,Ubuntu on Gnome,XFCE,Cinnamon,Mate,Kde and openbox wm </b>
+<b>Tested on Gentoo ,Debian ,Archlinux,Fedora ,Ubuntu,Opensuse,FreeBsd on Gnome,XFCE,Cinnamon,Mate,Kde and openbox wm </b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 #How to install *GitHub*
@@ -65,7 +65,7 @@ Donate:
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-#How to install to *Fedora 24/25*
+<b>How to install to *Fedora 24/25*</b>
 <P>For Fedora 25 run the following as root</P>
 dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_25/home:Pival81.repo
 dnf install lila-hd-icon-theme
@@ -77,7 +77,7 @@ dnf install lila-hd-icon-theme
 <b>Thanks to <b><a href="https://github.com/Pival81" target="_blank">Piva81</a></b></b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-#How to install to *Opensuse leap 42.1/13.2 /13.1/Tumbleweed*
+<b>How to install to *Opensuse leap 42.1/13.2 /13.1/Tumbleweed*</b>
 
 For openSUSE Tumbleweed run the following as root:
 
