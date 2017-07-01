@@ -21,20 +21,20 @@ echo
 echo
 echo "Clone Repo:"
 echo
-git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
+#git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
 echo
 echo
 echo
 echo "Copy folder in your directory:"
 echo      
-sudo cp -r Lila-HD-icon-theme/Lila_HD /usr/share/icons/
-sudo cp -r Lila-HD-icon-theme/Lila_HD_Blue /usr/share/icons/
-sudo cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/
-sudo cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/
-sudo cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/
-sudo cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/
+sudo cp -r Lila_HD /usr/share/icons/
+sudo cp -r Lila_HD_Blue /usr/share/icons/
+sudo cp -r Lila_HD_Dark /usr/share/icons/
+sudo cp -r Lila_HD_Green /usr/share/icons/
+sudo cp -r Lila_HD_Kaki /usr/share/icons/
+sudo cp -r Lila_HD_Light-Grey /usr/share/icons/
 sudo mv /usr/share/icons/default /usr/share/icons/default-bk
-sudo cp -r Lila-HD-icon-theme/default /usr/share/icons/
+sudo cp -r default /usr/share/icons/
 
 echo
 echo "Update icon-cache:"
@@ -48,7 +48,7 @@ sudo gtk-update-icon-cache /usr/share/icons/Lila_HD_Light-Grey
 sudo gtk-update-icon-cache /usr/share/icons/default
 echo
 echo "*Remove downloaded folder:"
-rm -rf Lila-HD-icon-theme
+#rm -rf Lila-HD-icon-theme
 echo "Enjoy"
 echo            "by ilnanny (cristianpozzessere@gmail.com)"
 echo            "#########################"
