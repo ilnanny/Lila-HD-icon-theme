@@ -45,15 +45,15 @@ https://www.paypal.me/ilnanny
 <P>cp -r Lila-HD-icon-theme/default /usr/share/icons/</P>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade></P>
-*Update icon-cache:
+*Making of icon cache for Lila-HD-icon-theme:
 
-<P>gtk-update-icon-cache /usr/share/icons/Lila_HD</P>
-<P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Kaki</P>
-<P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Blue</P>
-<P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Dark</P>
-<P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Green</P>
-<P>gtk-update-icon-cache /usr/share/icons/Lila_HD_Light-Grey</P>
-<P>gtk-update-icon-cache /usr/share/icons/default</P>
+<P>gtk-update-icon-cache -f /usr/share/icons/Lila_HD</P>
+<P>gtk-update-icon-cache -f /usr/share/icons/Lila_HD_Kaki</P>
+<P>gtk-update-icon-cache -f /usr/share/icons/Lila_HD_Blue</P>
+<P>gtk-update-icon-cache -f /usr/share/icons/Lila_HD_Dark</P>
+<P>gtk-update-icon-cache -f /usr/share/icons/Lila_HD_Green</P>
+<P>gtk-update-icon-cache -f /usr/share/icons/Lila_HD_Light-Grey</P>
+<P>gtk-update-icon-cache -f /usr/share/icons/Lila_HD/default</P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 *Remove downloaded folder:
 
