@@ -2,8 +2,15 @@
 # Lila-HD-icon-theme
 Icon theme for Gnu Linux Operation Sistem 
 ---------------------------------------------
+*Clone Repo:
 
-#How to install *GitHub*
+git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
+
+#move to: 
+ 
+cd ~/Lila-HD-icon-theme
+
+su
 
 ** All commands will be executed as root **
 
@@ -17,22 +24,17 @@ Icon theme for Gnu Linux Operation Sistem
  rm -rf /usr/share/icons/Lila_HD_Kaki
  rm -rf /usr/share/icons/Lila_HD_Light-Grey
 
-*Clone Repo:
-
-#git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
-
-
 
 *Copy folder in your directory:
        
-cp -r Lila-HD-icon-theme/Lila_HD /usr/share/icons/
-cp -r Lila-HD-icon-theme/Lila_HD_Blue /usr/share/icons/
-cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/
-cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/
-cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/
-cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/
+cp -r Lila_HD /usr/share/icons/
+cp -r Lila_HD_Blue /usr/share/icons/
+cp -r Lila_HD_Dark /usr/share/icons/
+cp -r Lila_HD_Green /usr/share/icons/
+cp -r Lila_HD_Kaki /usr/share/icons/
+cp -r Lila_HD_Light-Grey /usr/share/icons/
 mv /usr/share/icons/default /usr/share/icons/default-bk
-cp -r Lila-HD-icon-theme/default /usr/share/icons/
+cp -r default /usr/share/icons/
 
 
 *Update icon-cache:
@@ -43,7 +45,8 @@ gtk-update-icon-cache /usr/share/icons/Lila_HD_Blue
 gtk-update-icon-cache /usr/share/icons/Lila_HD_Dark
 gtk-update-icon-cache /usr/share/icons/Lila_HD_Green
 gtk-update-icon-cache /usr/share/icons/Lila_HD_Light-Grey
-gtk-update-icon-cache /usr/share/icons/Lila_HD/default
+
+
 
 *Remove downloaded folder:
 
