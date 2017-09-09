@@ -47,6 +47,7 @@ https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade></P>
 *Making of icon cache for Lila-HD-icon-theme:
 
+<P>cd Lila-HD-icon-theme/</P>
 <P>sh icon-cache-maker.sh</P>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
