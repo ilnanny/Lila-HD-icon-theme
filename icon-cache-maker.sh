@@ -60,11 +60,17 @@ echo ""
 sudo gtk-update-icon-cache -f /usr/share/icons/Lila_HD_Light-Grey
 echo ""
 echo "____________________________________________________________________"
+echo ""
+echo "Lila_HD_Purple"
 echo "____________________________________________________________________"
+echo ""
+sudo gtk-update-icon-cache -f /usr/share/icons/Lila_HD_Purple
+echo ""
+echo"____________________________________________________________________"
 echo ""
 echo "____________________________________________________________________"
 echo ""
 echo "Close your Terminal emulator"
 echo ""
 echo "_____________________________________________________________________"
-exit 4 
+exit 0 

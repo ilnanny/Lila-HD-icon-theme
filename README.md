@@ -16,7 +16,7 @@ https://www.paypal.me/ilnanny
 <b>Tested on Gentoo ,Debian ,Archlinux,Fedora ,Ubuntu,Opensuse,FreeBsd on Gnome,XFCE,Cinnamon,Mate,Kde and openbox wm </b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-#How to install *GitHub*
+#How to install :
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 ** All commands will be executed as root or use sudo **
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
@@ -28,6 +28,7 @@ https://www.paypal.me/ilnanny
  <P>rm -rf /usr/share/icons/Lila_HD_Green</P>
  <P>rm -rf /usr/share/icons/Lila_HD_Kaki</P>
  <P>rm -rf /usr/share/icons/Lila_HD_Light-Grey</P>
+ <P>rm -rf /usr/share/icons/Lila_HD_Light-Purple</P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 *Clone Repo:
 
@@ -41,6 +42,7 @@ https://www.paypal.me/ilnanny
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/</P>
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/</P>
 <P>cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/</P>
+<P>cp -r Lila-HD-icon-theme/Lila_HD_Light-Purple /usr/share/icons/</P>
 <P>mv /usr/share/icons/default /usr/share/icons/default-bk</P>
 <P>cp -r Lila-HD-icon-theme/default /usr/share/icons/</P>
 
@@ -61,53 +63,6 @@ Donate:
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-<b>How to install to *Fedora 24/25*</b>
-<P>For Fedora 25 run the following as root</P>
-dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_25/home:Pival81.repo
-dnf install lila-hd-icon-theme
-
-<P>For Fedora 24 run the following as root</P>
-dnf config-manager --add-repo http://download.opensuse.org/repositories/home:Pival81/Fedora_24/home:Pival81.repo
-dnf install lila-hd-icon-theme
-
-<b>Thanks to <b><a href="https://github.com/Pival81" target="_blank">Piva81</a></b></b>
-<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-
-<b>How to install to *Opensuse leap 42.1/13.2 /13.1/Tumbleweed*</b>
-
-For openSUSE Tumbleweed run the following as root:
-
-zypper addrepo http://download.opensuse.org/repositories/home:Pival81/openSUSE_Tumbleweed/home:Pival81.repo
-zypper refresh
-zypper install lila-hd-icon-theme
-For openSUSE Leap 42.1 run the following as root:
-
-zypper addrepo http://download.opensuse.org/repositories/home:Pival81/openSUSE_Leap_42.1/home:Pival81.repo
-zypper refresh
-zypper install lila-hd-icon-theme
-For openSUSE 13.2 run the following as root:
-
-zypper addrepo http://download.opensuse.org/repositories/home:Pival81/openSUSE_13.2/home:Pival81.repo
-zypper refresh
-zypper install lila-hd-icon-theme
-For openSUSE 13.1 run the following as root:
-
-zypper addrepo http://download.opensuse.org/repositories/home:Pival81/openSUSE_13.1/home:Pival81.repo
-zypper refresh
-zypper install lila-hd-icon-theme
-
-<b>Thanks to <b><a href="https://github.com/Pival81" target="_blank">Piva81</a></b></b>
-
-<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-
-<b>How to install to *PPA*</b>
-<P>For Ubuntu 17.04 /16.04 Xenial/15.10 Wily/14.04 Trusty/12.04 Precise/Linux Mint 17.x/13/other related Ubuntu derivatives</P>
-<P>To install Lila-HD Icons in Ubuntu/Linux Mint open Terminal (Press Ctrl+Alt+T) and copy the following commands in the terminal:</P>
-<P>Terminal Commands:</P>
-<P>sudo add-apt-repository ppa:noobslab/icons</P>
-<P>sudo apt-get update</P>
-<P>sudo apt-get install lila-hd-icons</P>
-<b> Thanks to  <a href="http://www.noobslab.com/" target="_blank">NoobsLab</a> </b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 Video : <a href="https://www.youtube.com/watch?v=oF1cSRwulas" target="_blank">Youtube</a>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
