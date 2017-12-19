@@ -20,42 +20,42 @@ https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 ** All commands will be executed as root or use sudo **
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-*Remove older Version For Lila_HD_Icon_Theme:
+<i>*Remove older Version For Lila_HD_Icon_Theme:
 
  <P><code>rm -rf /usr/share/icons/Lila_HD</code></P>
- <P>rm -rf /usr/share/icons/Lila_HD_Blue</P>
- <P>rm -rf /usr/share/icons/Lila_HD_Dark</P>
- <P>rm -rf /usr/share/icons/Lila_HD_Green</P>
- <P>rm -rf /usr/share/icons/Lila_HD_Kaki</P>
- <P>rm -rf /usr/share/icons/Lila_HD_Light-Grey</P>
- <P>rm -rf /usr/share/icons/Lila_HD_Light-Purple</P>
+ <P><code>rm -rf /usr/share/icons/Lila_HD_Blue</code></P>
+ <P><code>rm -rf /usr/share/icons/Lila_HD_Dark</code></P>
+ <P><code>rm -rf /usr/share/icons/Lila_HD_Green</code></P>
+ <P><code>rm -rf /usr/share/icons/Lila_HD_Kaki</code></P>
+ <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Grey</code></P>
+ <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Purple</code></P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-*Clone Repo:
+<i>*Clone Repo</i>:
 
- git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
+<code> git clone https://github.com/ilnanny/Lila-HD-icon-theme.git</code>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-*Copy folder in your directory:
+<i>*Copy folder in your directory</i>:
 
-<P>cp -r Lila-HD-icon-theme/Lila_HD /usr/share/icons/</P>
-<P>cp -r Lila-HD-icon-theme/Lila_HD_Blue /usr/share/icons/</P>
-<P>cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/</P>
-<P>cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/</P>
-<P>cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/</P>
-<P>cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/</P>
-<P>cp -r Lila-HD-icon-theme/Lila_HD_Light-Purple /usr/share/icons/</P>
-<P>mv /usr/share/icons/default /usr/share/icons/default-bk</P>
-<P>cp -r Lila-HD-icon-theme/default /usr/share/icons/</P>
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD /usr/share/icons/</code></P>
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD_Blue /usr/share/icons/</code></P>
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/</code></P>
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/</code></P>
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/</code></P>
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/</code></P>
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD_Light-Purple /usr/share/icons/</code></P>
+<P><code>mv /usr/share/icons/default /usr/share/icons/default-bk</code></P>
+<P><code>cp -r Lila-HD-icon-theme/default /usr/share/icons/</code></P>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade></P>
-*Making of icon cache for Lila-HD-icon-theme:
+<i>*Making of icon cache for Lila-HD-icon-theme</i>:
 
-<P>cd Lila-HD-icon-theme/</P>
-<P>sh icon-cache-maker.sh</P>
+<P><code>cd Lila-HD-icon-theme/</code></P>
+<P><code>sh icon-cache-maker.sh</code></P>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-*Remove downloaded folder:
+<i>*Remove downloaded folder</i>:
 
- rm -rf Lila-HD-icon-theme
+<code> rm -rf Lila-HD-icon-theme</code>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 <br><b>Donate:</b></br>
