@@ -62,12 +62,11 @@ Donate:
 <b><a href="https://www.paypal.me/ilnanny" target="_blank">Paypal</a></b>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<b>Acknowledgments:</b>
+<P><b>Acknowledgments:</b></P>
 <b>Valerio Pizzi <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
 <a href="https://github.com/Pival81" target="_blank">== Pival81 ==</a></b>
  <b> creator and maintainer of packages for Archlinux, Fedora and OpenSuse.</b>
-  <p><b>and</b></p>
-  
+
 <b>NoobsLab  <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
 <a href="http://www.noobslab.com/" target="_blank">== NoobsLab  ==</a></b> 
  <b>creator and maintainer of packages for Ubuntu and Linux-Mint .</b>
