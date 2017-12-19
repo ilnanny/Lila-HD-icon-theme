@@ -1,6 +1,6 @@
 # Lila-hd-icon-theme
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<b>Lila HD icon theme for Gnu-Linux and Unix-like O.S</b>
+<font face="Verdana, Arial, Helvetica, sans-serif" color="blue">Lila HD icon theme for Gnu-Linux and Unix-like O.S</font>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <img src="https://github.com/ilnanny/Lila-HD-icon-theme/blob/master/Lila-HD-Icon-theme-3.0-Preview.png?raw=true"Lila HD icon Theme Master">
 
