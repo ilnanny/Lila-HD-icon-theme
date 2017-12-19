@@ -65,8 +65,8 @@ Donate:
 <P><b>Acknowledgments:</b></P>
 <P><b>Valerio Pizzi <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
 <b><a href="https://github.com/Pival81" target="_blank">== Pival81 ==</a></b>  </b></P>
- <p><b> creator and maintainer of packages for Archlinux, Fedora and OpenSuse.</b></p>
-  and
+ <b> creator and maintainer of packages for Archlinux, Fedora and OpenSuse.</b>
+  <p><b>and</b></p>
 <P><b>NoobsLab    http://www.noobslab.com/ </b></P>
   <p><b>creator and maintainer of packages for Ubuntu and Linux-Mint .</b></p>
  <hr align=”left” size=”1″ width=”300″ color=”red” noshade> 
