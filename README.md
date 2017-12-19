@@ -20,7 +20,7 @@ https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 ** All commands will be executed as root or use sudo **
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<i>*Remove older Version For Lila_HD_Icon_Theme:
+<i>*Remove older Version For Lila_HD_Icon_Theme</i>:
 
  <P><code>rm -rf /usr/share/icons/Lila_HD</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Blue</code></P>
@@ -53,7 +53,7 @@ https://www.paypal.me/ilnanny
 <P><code>sh icon-cache-maker.sh</code></P>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<br><i>*Remove downloaded folder</i></br>:
+<i>*Remove downloaded folder</i>:
 
 <code>rm -rf Lila-HD-icon-theme</code>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
