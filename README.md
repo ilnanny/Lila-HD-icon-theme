@@ -16,11 +16,11 @@ https://www.paypal.me/ilnanny
 <b>Tested on Gentoo ,Debian ,Archlinux,Fedora ,Ubuntu,Opensuse,FreeBsd on Gnome,XFCE,Cinnamon,Mate,Kde and openbox wm </b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-#How to install :
+<strong>How to install :</strong>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 ** All commands will be executed as root or use sudo **
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<i>*Remove older Version For Lila_HD_Icon_Theme</i>:
+<i>*Remove older Version For Lila_HD_Icon_Theme:</i>
 
  <P><code>rm -rf /usr/share/icons/Lila_HD</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Blue</code></P>
