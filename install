@@ -22,6 +22,7 @@ su
  rm -rf /usr/share/icons/Lila_HD_Dark
  rm -rf /usr/share/icons/Lila_HD_Green
  rm -rf /usr/share/icons/Lila_HD_Kaki
+ rm -rf /usr/share/icons/Lila_HD_Purple
  rm -rf /usr/share/icons/Lila_HD_Light-Grey
 
 
@@ -33,6 +34,7 @@ cp -r Lila_HD_Dark /usr/share/icons/
 cp -r Lila_HD_Green /usr/share/icons/
 cp -r Lila_HD_Kaki /usr/share/icons/
 cp -r Lila_HD_Light-Grey /usr/share/icons/
+cp -r Lila_HD_Purple /usr/share/icons/
 mv /usr/share/icons/default /usr/share/icons/default-bk
 cp -r default /usr/share/icons/
 
