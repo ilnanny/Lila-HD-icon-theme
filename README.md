@@ -63,13 +63,14 @@ Donate:
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <P><b>Acknowledgments:</b></P>
-<P><b>Valerio Pizzi == Pival81 ==  https://github.com/Pival81</b></P>
- <P><b> creator and maintainer of packages for Archlinux, Fedora and OpenSuse.</b></P>
-  <P></P>
+<P><b>Valerio Pizzi <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
+<b><a href="https://github.com/Pival81" target="_blank">== Pival81 ==</a></b>  </b></P>
+ <p><b> creator and maintainer of packages for Archlinux, Fedora and OpenSuse.</b></p>
+  and
 <P><b>NoobsLab    http://www.noobslab.com/ </b></P>
-  <P><b>creator and maintainer of packages for Ubuntu and Linux-Mint .</b></P>
+  <p><b>creator and maintainer of packages for Ubuntu and Linux-Mint .</b></p>
  <hr align=”left” size=”1″ width=”300″ color=”red” noshade> 
-  <P></P>
+  
 <P></P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 Video : <a href="https://www.youtube.com/watch?v=oF1cSRwulas" target="_blank">Youtube</a>
