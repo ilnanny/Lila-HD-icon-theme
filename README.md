@@ -58,22 +58,22 @@ https://www.paypal.me/ilnanny
  rm -rf Lila-HD-icon-theme
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-Donate:
+<p><b>Donate:</b></p>
 <b><a href="https://www.paypal.me/ilnanny" target="_blank">Paypal</a></b>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <P><b>Acknowledgments:</b></P>
-<b>Valerio Pizzi <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
-<a href="https://github.com/Pival81" target="_blank">== Pival81 ==</a></b>
- <b> creator and maintainer of packages for Archlinux, Fedora and OpenSuse.</b>
+Valerio Pizzi <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
+<a href="https://github.com/Pival81" target="_blank">== Pival81 ==</a>
+  creator and maintainer of packages for Archlinux, Fedora and OpenSuse.
 
-<b>NoobsLab  <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
-<a href="http://www.noobslab.com/" target="_blank">== NoobsLab  ==</a></b> 
- <b>creator and maintainer of packages for Ubuntu and Linux-Mint .</b>
+NoobsLab  <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
+<a href="http://www.noobslab.com/" target="_blank">== NoobsLab  ==</a>
+ creator and maintainer of packages for Ubuntu and Linux-Mint .
  <hr align=”left” size=”1″ width=”300″ color=”red” noshade> 
   
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-Video : <a href="https://www.youtube.com/watch?v=oF1cSRwulas" target="_blank">Youtube</a>
+<b>Video : <a href="https://www.youtube.com/watch?v=oF1cSRwulas" target="_blank">Youtube</a></b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
