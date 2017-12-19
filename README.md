@@ -53,9 +53,9 @@ https://www.paypal.me/ilnanny
 <P><code>sh icon-cache-maker.sh</code></P>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<i>*Remove downloaded folder</i>:
+<br><i>*Remove downloaded folder</i></br>:
 
-<code> rm -rf Lila-HD-icon-theme</code>
+<code>rm -rf Lila-HD-icon-theme</code>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 <br><b>Donate:</b></br>
