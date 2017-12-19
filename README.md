@@ -1,4 +1,4 @@
-# Lila-hd-icon-theme
+<strong>Lila-hd-icon-theme</strong>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <b>Lila HD icon theme for Gnu-Linux and Unix-like O.S</b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
