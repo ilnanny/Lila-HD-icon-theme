@@ -1,6 +1,6 @@
 # Lila-hd-icon-theme
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<font face="Verdana, Arial, Helvetica, sans-serif" color="blue">Lila HD icon theme for Gnu-Linux and Unix-like O.S</font>
+<b>Lila HD icon theme for Gnu-Linux and Unix-like O.S</b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <img src="https://github.com/ilnanny/Lila-HD-icon-theme/blob/master/Lila-HD-Icon-theme-3.0-Preview.png?raw=true"Lila HD icon Theme Master">
 
@@ -22,7 +22,7 @@ https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 *Remove older Version For Lila_HD_Icon_Theme:
 
- <P>rm -rf /usr/share/icons/Lila_HD</P>
+ <P><code>rm -rf /usr/share/icons/Lila_HD</code></P>
  <P>rm -rf /usr/share/icons/Lila_HD_Blue</P>
  <P>rm -rf /usr/share/icons/Lila_HD_Dark</P>
  <P>rm -rf /usr/share/icons/Lila_HD_Green</P>
