@@ -14,12 +14,35 @@
    height="96"
    id="icona-96"
    version="1.1"
-   inkscape:version="0.92.1 r15371"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="cs-overview.svg">
   <title
      id="title5053">template-icona-febbraio-2016</title>
   <defs
      id="defs3393">
+    <linearGradient
+       id="linearGradient1014">
+      <stop
+         id="stop1004"
+         offset="0"
+         style="stop-color:#adbdc1;stop-opacity:1" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1;"
+         offset="0.25"
+         id="stop1006" />
+      <stop
+         style="stop-color:#90a6aa;stop-opacity:1"
+         offset="0.5"
+         id="stop1008" />
+      <stop
+         id="stop1010"
+         offset="0.75"
+         style="stop-color:#f9fafb;stop-opacity:1" />
+      <stop
+         id="stop1012"
+         offset="1"
+         style="stop-color:#adbac1;stop-opacity:1" />
+    </linearGradient>
     <linearGradient
        id="linearGradient4257-0">
       <stop
@@ -482,7 +505,7 @@
     </radialGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient6139-0"
+       xlink:href="#linearGradient1014"
        id="linearGradient4071"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.1071428,0,0,1.1071426,2.9011003,-18.701274)"
@@ -718,16 +741,16 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.8739083"
-     inkscape:cx="41.317433"
-     inkscape:cy="71.367284"
+     inkscape:cx="10.271382"
+     inkscape:cy="69.302186"
      inkscape:current-layer="g3950"
      showgrid="true"
      inkscape:grid-bbox="true"
      inkscape:document-units="px"
      inkscape:window-width="1280"
-     inkscape:window-height="972"
+     inkscape:window-height="941"
      inkscape:window-x="0"
-     inkscape:window-y="26"
+     inkscape:window-y="21"
      inkscape:window-maximized="1"
      inkscape:snap-global="true"
      inkscape:snap-grids="false"
@@ -737,19 +760,23 @@
     <sodipodi:guide
        orientation="0,1"
        position="74.775629,89.453808"
-       id="guide4313" />
+       id="guide4313"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="88.761441,69.652114"
-       id="guide4315" />
+       id="guide4315"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="0,1"
        position="113.27123,12.047185"
-       id="guide4319" />
+       id="guide4319"
+       inkscape:locked="false" />
     <sodipodi:guide
        orientation="1,0"
        position="1.800154,80.106855"
-       id="guide4346" />
+       id="guide4346"
+       inkscape:locked="false" />
   </sodipodi:namedview>
   <metadata
      id="">
