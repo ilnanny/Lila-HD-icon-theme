@@ -28,8 +28,12 @@ https://www.paypal.me/ilnanny
  <P><code>rm -rf /usr/share/icons/Lila_HD_Green</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Kaki</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Grey</code></P>
+<<<<<<< HEAD
  <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Purple</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD-cursor</code></P>
+=======
+ <P><code>rm -rf /usr/share/icons/Lila_HD_Purple</code></P>
+>>>>>>> 3a30c0417538029b32d2eac7d49521fba26f433b
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <i>*Clone Repo</i>:
 
@@ -43,8 +47,12 @@ https://www.paypal.me/ilnanny
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/</code></P>
+<<<<<<< HEAD
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Light-Purple /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD-cursor /usr/share/icons/</code></P>
+=======
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD_Purple /usr/share/icons/</code></P>
+>>>>>>> 3a30c0417538029b32d2eac7d49521fba26f433b
 <P><code>mv /usr/share/icons/default /usr/share/icons/default-bk</code></P>
 <P><code>cp -r Lila-HD-icon-theme/default /usr/share/icons/</code></P>
 
