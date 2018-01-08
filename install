@@ -24,7 +24,7 @@ su
  rm -rf /usr/share/icons/Lila_HD_Kaki
  rm -rf /usr/share/icons/Lila_HD_Purple
  rm -rf /usr/share/icons/Lila_HD_Light-Grey
-
+ rm -rf /usr/share/icons/Lila_HD-cursor
 
 *Copy folder in your directory:
        
@@ -35,6 +35,7 @@ cp -r Lila_HD_Green /usr/share/icons/
 cp -r Lila_HD_Kaki /usr/share/icons/
 cp -r Lila_HD_Light-Grey /usr/share/icons/
 cp -r Lila_HD_Purple /usr/share/icons/
+cp -r Lila_HD-cursor /usr/share/icons/
 mv /usr/share/icons/default /usr/share/icons/default-bk
 cp -r default /usr/share/icons/
 
