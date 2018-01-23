@@ -1,9 +1,9 @@
 #!/bin/bash
 ###################################################
-# Write for  Gnu-Linux O.S.                    #
+# Write for  Gnu-Linux O.S.                       #
 # Author      : Cristian Pozzessere               #
 # D.A.Page    : http://lnanny.deviantart.com      #
-#Git Hub Page : https://github.com/ilnanny        #
+# Git Hub Page : https://github.com/ilnanny       #
 #                                                 #
 #   _  _                                          # 
 #  (_)| | _ __    __ _  _ __   _ __   _   _       #
@@ -66,7 +66,7 @@ echo "____________________________________________________________________"
 echo ""
 sudo gtk-update-icon-cache -f /usr/share/icons/Lila_HD_Purple
 echo ""
-echo"____________________________________________________________________"
+echo "____________________________________________________________________"
 echo ""
 echo "____________________________________________________________________"
 echo ""

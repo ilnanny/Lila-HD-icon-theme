@@ -11,7 +11,7 @@
    viewBox="0 0 96 96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.91 r13725"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="autocad.svg"
    width="96"
    height="96">
@@ -23,7 +23,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -37,14 +37,14 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="971"
+     inkscape:window-height="947"
      id="namedview41"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="3.6878817"
+     inkscape:cx="-34.142627"
      inkscape:cy="24"
      inkscape:window-x="0"
-     inkscape:window-y="27"
+     inkscape:window-y="19"
      inkscape:window-maximized="1"
      inkscape:current-layer="g7390" />
   <defs
@@ -1170,15 +1170,6 @@
          offset="1" />
     </linearGradient>
     <linearGradient
-       gradientUnits="userSpaceOnUse"
-       y2="30.705498"
-       x2="98.883072"
-       y1="30.705498"
-       x1="13.636684"
-       id="linearGradient4792"
-       xlink:href="#linearGradient4221"
-       inkscape:collect="always" />
-    <linearGradient
        inkscape:collect="always"
        xlink:href="#ButtonShadow"
        id="linearGradient4362"
@@ -1238,7 +1229,7 @@
                d="m 95.901096,-13.165561 -79.714282,0 c -3.680143,0 -6.6428566,2.962713 -6.6428566,6.6428549 l 0,79.7142901 c 0,3.680142 2.9627136,6.642856 6.6428566,6.642856 l 79.714282,0 c 3.680143,0 6.642854,-2.962714 6.642854,-6.642856 l 0,-79.7142901 c 0,-3.6801419 -2.962711,-6.6428549 -6.642854,-6.6428549 z"
                style="display:inline;fill:url(#linearGradient3825);fill-opacity:1;fill-rule:nonzero;stroke:none" />
             <rect
-               style="fill:url(#linearGradient4792);fill-opacity:1.0;stroke:#ffffff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+               style="fill:#f2eaea;fill-opacity:1;stroke:#ffffff;stroke-width:0.40000001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
                id="rect4301"
                width="84.84639"
                height="77.520287"
@@ -1334,12 +1325,6 @@
                    d="M 12,32 13.775,28.45 30.713,21.43 36,32.003" />
               </g>
             </g>
-            <path
-               inkscape:connector-curvature="0"
-               id="rect4190"
-               d="m 17.816477,-8.0220611 c -1.993352,0 -3.604492,1.649341 -3.608803,3.684498 L 14.059457,65.623561 c 1.913686,2.521055 1.665283,2.410772 4.851514,2.679065 1.804215,-14.861054 36.499018,-73.3364721 77.418282,-73.3364721 0.488076,0 0.963271,0.01986 1.449204,0.02901 -0.302859,-1.718031 -1.751,-3.017226 -3.523555,-3.017226 z"
-               style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none"
-               sodipodi:nodetypes="ssccscss" />
             <rect
                clip-path="url(#clipPath4156-4)"
                ry="3.9569881"
