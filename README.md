@@ -28,7 +28,6 @@ https://www.paypal.me/ilnanny
  <P><code>rm -rf /usr/share/icons/Lila_HD_Green</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Kaki</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Grey</code></P>
-<<<<<<< HEAD
  <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Purple</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD-cursor</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Purple</code></P>
