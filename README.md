@@ -15,7 +15,8 @@ https://www.paypal.me/ilnanny
 <P><b>The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )</b></P>
 <b>Tested on Gentoo ,Debian ,Archlinux,Fedora ,Ubuntu,Opensuse,FreeBsd on Gnome,XFCE,Cinnamon,Mate,Kde and openbox wm </b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-
+<P><b>Include icons for Oblogout </b></P>
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <strong>How to install :</strong>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 ** All commands will be executed as root or use sudo **
