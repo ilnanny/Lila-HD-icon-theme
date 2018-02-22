@@ -32,36 +32,29 @@ https://www.paypal.me/ilnanny
 <<<<<<< HEAD
  <P><code>rm -rf /usr/share/icons/Lila_HD_Crimson</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Purple</code></P>
-=======
  <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Purple</code></P>
->>>>>>> 090ad61bceea03ce4aa01d7484b4127792c350c9
  <P><code>rm -rf /usr/share/icons/Lila_HD-cursor</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Purple</code></P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <i>*Clone Repo</i>:
-
 <code> git clone https://github.com/ilnanny/Lila-HD-icon-theme.git</code>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <i>*Copy folder in your directory</i>:
-
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Blue /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Dark /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/</code></P>
-<<<<<<< HEAD
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Purple /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Crimson /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD-cursor /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Purple /usr/share/icons/</code></P>
 <P><code>mv /usr/share/icons/default /usr/share/icons/default-bk</code></P>
 <P><code>cp -r Lila-HD-icon-theme/default /usr/share/icons/</code></P>
-=======
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Light-Purple /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD-cursor /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Purple /usr/share/icons/</code></P>
->>>>>>> 090ad61bceea03ce4aa01d7484b4127792c350c9
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade></P>
 <i>*Making of icon cache for Lila-HD-icon-theme</i>:
