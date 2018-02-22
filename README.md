@@ -22,14 +22,12 @@ https://www.paypal.me/ilnanny
 ** All commands will be executed as root or use sudo **
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <i>*Remove older Version For Lila_HD_Icon_Theme:</i>
-
  <P><code>rm -rf /usr/share/icons/Lila_HD</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Blue</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Dark</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Green</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Kaki</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Grey</code></P>
-<<<<<<< HEAD
  <P><code>rm -rf /usr/share/icons/Lila_HD_Crimson</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Purple</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Purple</code></P>
