@@ -15,7 +15,8 @@ https://www.paypal.me/ilnanny
 <P><b>The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )</b></P>
 <b>Tested on Gentoo,Debian,Archlinux,Fedora,Ubuntu,Opensuse,FreeBsd,Devuan on Gnome,XFCE,Cinnamon,Mate,Kde,Lxde, and  e17 ,e19 ,openbox wm </b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-
+<P><b>Include icons for Oblogout </b></P>
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <strong>How to install :</strong>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 ** All commands will be executed as root or use sudo **
@@ -28,8 +29,12 @@ https://www.paypal.me/ilnanny
  <P><code>rm -rf /usr/share/icons/Lila_HD_Green</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Kaki</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Grey</code></P>
+<<<<<<< HEAD
  <P><code>rm -rf /usr/share/icons/Lila_HD_Crimson</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Purple</code></P>
+=======
+ <P><code>rm -rf /usr/share/icons/Lila_HD_Light-Purple</code></P>
+>>>>>>> 090ad61bceea03ce4aa01d7484b4127792c350c9
  <P><code>rm -rf /usr/share/icons/Lila_HD-cursor</code></P>
  <P><code>rm -rf /usr/share/icons/Lila_HD_Purple</code></P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
@@ -45,12 +50,18 @@ https://www.paypal.me/ilnanny
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Green /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Kaki /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Light-Grey /usr/share/icons/</code></P>
+<<<<<<< HEAD
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Purple /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Crimson /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD-cursor /usr/share/icons/</code></P>
 <P><code>cp -r Lila-HD-icon-theme/Lila_HD_Purple /usr/share/icons/</code></P>
 <P><code>mv /usr/share/icons/default /usr/share/icons/default-bk</code></P>
 <P><code>cp -r Lila-HD-icon-theme/default /usr/share/icons/</code></P>
+=======
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD_Light-Purple /usr/share/icons/</code></P>
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD-cursor /usr/share/icons/</code></P>
+<P><code>cp -r Lila-HD-icon-theme/Lila_HD_Purple /usr/share/icons/</code></P>
+>>>>>>> 090ad61bceea03ce4aa01d7484b4127792c350c9
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade></P>
 <i>*Making of icon cache for Lila-HD-icon-theme</i>:

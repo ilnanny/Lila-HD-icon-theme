@@ -1,0 +1,27 @@
+#!/bin/bash
+###################################################
+# Write for  Gnu-Linux O.S.x64                    #
+# Author      : Cristian Pozzessere               #
+# D.A.Page    : http://lnanny.deviantart.com      #
+# Git Hub Page : https://github.com/ilnanny       #
+#                                                 #
+#   _  _                                          # 
+#  (_)| | _ __    __ _  _ __   _ __   _   _       #
+#  | || || '_ \  / _` || '_ \ | '_ \ | | | |      # 
+#  | || || | | || (_| || | | || | | || |_| |      # 
+#  |_||_||_| |_| \__,_||_| |_||_| |_| \__, |      #
+#                                      |___/      #
+#                                                 # 
+###################################################
+git config --global user.name "ilnanny"
+git config --global user.email ilnannyhack@gmail.com
+git add .
+git status
+git commit -m "Update"
+git pull
+git push
+exit 0
+
+
+
+
