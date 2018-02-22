@@ -1,21 +1,24 @@
+------------------------------------------------
+** Lila-HD
+** by ilnanny < cristianpozzessere@gmail.com >
+** Icon theme for Gnu Linux Operation Sistem 
+------------------------------------------------
+------------------------------------------------
 
-# Lila-HD-icon-theme
-Icon theme for Gnu Linux Operation Sistem 
----------------------------------------------
-*Clone Repo:
+** Clone Repo:
 
 git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
 
-#move to: 
+** move to: 
  
 cd ~/Lila-HD-icon-theme
 
 su
 
-** All commands will be executed as root **
+** All commands will be executed as ROOT **
 
 
-*Remove older Version For Lila_HD_Icon_Theme:
+** Remove older Version For Lila_HD_Icon_Theme:
 
  rm -rf /usr/share/icons/Lila_HD
  rm -rf /usr/share/icons/Lila_HD_Blue
@@ -24,31 +27,35 @@ su
  rm -rf /usr/share/icons/Lila_HD_Kaki
  rm -rf /usr/share/icons/Lila_HD_Purple
  rm -rf /usr/share/icons/Lila_HD_Light-Grey
+ rm -rf /usr/share/icons/Lila_HD_Crimson
  rm -rf /usr/share/icons/Lila_HD-cursor
 
-*Copy folder in your directory:
+** Copy folder in your directory:
        
 cp -r Lila_HD /usr/share/icons/
+
+** "Optional" other colors 
+
 cp -r Lila_HD_Blue /usr/share/icons/
 cp -r Lila_HD_Dark /usr/share/icons/
 cp -r Lila_HD_Green /usr/share/icons/
 cp -r Lila_HD_Kaki /usr/share/icons/
 cp -r Lila_HD_Light-Grey /usr/share/icons/
 cp -r Lila_HD_Purple /usr/share/icons/
+cp -r Lila_HD_Crimson /usr/share/icons/
 cp -r Lila_HD-cursor /usr/share/icons/
-mv /usr/share/icons/default /usr/share/icons/default-bk
-cp -r default /usr/share/icons/
 
+** "Optional" Oblogout Icons
 
-*Update icon-cache:
+cp -r Lila-OB-cursor /usr/share/themes/
+
+** Update icon-cache:
 
 sh icon-cache-maker.sh
 
-*Remove downloaded folder:
+** Remove downloaded folder:
 
  rm -rf Lila-HD-icon-theme
 
 
-**Enjoy**
-
-by ilnanny (cristianpozzessere@gmail.com)
+** Enjoy ** 
