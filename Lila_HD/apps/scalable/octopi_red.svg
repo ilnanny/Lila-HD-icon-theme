@@ -14,8 +14,8 @@
    height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.48.5 r10040"
-   sodipodi:docname="octopi_yellow.svg">
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   sodipodi:docname="octopi_red.svg">
   <defs
      id="defs4">
     <radialGradient
@@ -356,17 +356,6 @@
     </linearGradient>
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#ButtonShadow-1"
-       id="radialGradient3970"
-       cx="48"
-       cy="46"
-       fx="48"
-       fy="46"
-       r="42.423195"
-       gradientTransform="matrix(1,0,0,0.91365451,0,3.9718926)"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       inkscape:collect="always"
        xlink:href="#linearGradient5039"
        id="radialGradient3997"
        cx="-78.375"
@@ -385,10 +374,10 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="3.1970542"
-     inkscape:cx="-18.183432"
-     inkscape:cy="62.00349"
+     inkscape:cx="44.733502"
+     inkscape:cy="59.501186"
      inkscape:document-units="px"
-     inkscape:current-layer="g3177"
+     inkscape:current-layer="layer7"
      showgrid="false"
      inkscape:snap-page="true"
      inkscape:snap-global="true"
@@ -400,9 +389,9 @@
      inkscape:object-paths="true"
      inkscape:object-nodes="true"
      inkscape:window-width="1280"
-     inkscape:window-height="932"
+     inkscape:window-height="943"
      inkscape:window-x="0"
-     inkscape:window-y="31"
+     inkscape:window-y="19"
      inkscape:window-maximized="1"
      inkscape:snap-midpoints="true"
      inkscape:snap-grids="true"
@@ -423,7 +412,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -496,7 +485,7 @@
          inkscape:label="colori"
          id="layer7">
         <rect
-           style="fill:url(#radialGradient3970);fill-opacity:1;stroke:none;display:inline"
+           style="fill:#e7e7e7;fill-opacity:1;stroke:none;display:inline"
            id="rect4301"
            width="84.84639"
            height="77.520287"
@@ -544,27 +533,17 @@
       <g
          inkscape:label="luci-superiori"
          id="layer4">
-        <g
-           transform="matrix(1.0076012,0,0,1.014293,-1.0512372,0.60533708)"
-           id="g4963">
-          <path
-             sodipodi:nodetypes="ssccscss"
-             style="opacity:0.3;fill:#ffffff;fill-opacity:1;stroke:none;display:inline"
-             d="m 10.49504,6.668839 c -1.9933517,0 -3.6044917,1.649341 -3.6088027,3.684498 l -0.148217,69.961124 c 1.913686,2.521055 1.665283,2.410772 4.8515137,2.679065 C 13.393749,68.132472 48.088552,9.657054 89.00782,9.657054 c 0.48807,0 0.96327,0.01986 1.4492,0.02901 -0.30286,-1.718031 -1.751,-3.017226 -3.52355,-3.017226 z"
-             id="rect4190"
-             inkscape:connector-curvature="0" />
-          <rect
-             transform="matrix(0.90930469,0,0,0.92837735,5.0676273,34.52016)"
-             style="fill:url(#linearGradient4967);fill-opacity:1;stroke:none;display:inline"
-             id="rect4146"
-             width="92"
-             height="92"
-             x="2"
-             y="-30"
-             rx="3.9569874"
-             ry="3.9569881"
-             clip-path="url(#clipPath4156-4-6)" />
-        </g>
+        <rect
+           clip-path="url(#clipPath4156-4-6)"
+           ry="3.9569881"
+           rx="3.9569874"
+           y="-30"
+           x="2"
+           height="92"
+           width="92"
+           id="rect4146"
+           style="display:inline;fill:url(#linearGradient4967);fill-opacity:1;stroke:none"
+           transform="matrix(0.9162165,0,0,0.94164665,4.0549101,35.618894)" />
         <rect
            ry="4.25"
            rx="0"
