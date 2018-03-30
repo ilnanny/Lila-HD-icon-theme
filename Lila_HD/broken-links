@@ -1,0 +1,17 @@
+#!/bin/bash
+#========================================================
+#========================================================
+#   Write for  Gnu-Linux O.S 
+#   Author  : Cristian Pozzessere     = ilnanny =     
+#   D.A.Page   : http://lnanny.deviantart.com     
+#   Git Hub Page : https://github.com/ilnanny   
+#========================================================
+#========================================================
+#echo "Checking and printing all the icons with a broken symbolic link"
+echo "Controllo e stampo tutte le icone con un collegamento simbolico mancante"
+
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+
+echo "Fine script"
+
+sleep 5
