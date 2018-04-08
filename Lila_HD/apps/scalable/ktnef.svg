@@ -35,18 +35,34 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1280"
-     inkscape:window-height="941"
+     inkscape:window-height="945"
      id="namedview518"
      showgrid="false"
      inkscape:zoom="4.9166667"
-     inkscape:cx="-3.2542373"
+     inkscape:cx="0.80515477"
      inkscape:cy="40.271186"
      inkscape:window-x="0"
-     inkscape:window-y="21"
+     inkscape:window-y="20"
      inkscape:window-maximized="1"
-     inkscape:current-layer="svg516" />
+     inkscape:current-layer="g514" />
   <defs
      id="defs486">
+    <linearGradient
+       gradientUnits="userSpaceOnUse"
+       x2="0"
+       y2="511.79999"
+       y1="527.79999"
+       id="linearGradient920">
+      <stop
+         id="stop916"
+         stop-color="#7cbaf8"
+         style="stop-color:#7cf8bc;stop-opacity:1" />
+      <stop
+         id="stop918"
+         stop-color="#f4fcff"
+         offset="1"
+         style="stop-color:#f4fffa;stop-opacity:0.83962262" />
+    </linearGradient>
     <linearGradient
        id="a"
        x1="543.8"
@@ -448,7 +464,7 @@
      id="rect4251-1"
      inkscape:connector-curvature="0" />
   <path
-     style="display:inline;opacity:0.98000004;fill:#f4d7e3;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51566219"
+     style="display:inline;opacity:0.98000004;fill:#3e94c9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.51566219"
      d="m 5.6972261,3.2802641 c -1.4222972,0 -2.551389,1.1530465 -2.551389,2.6055173 v 10.7966076 3.647723 20.111331 c 0.5463341,0.848762 1.4782393,1.416749 2.551389,1.416749 H 7.7383374 40.396118 43.2187 c 1.073151,0 1.223584,0.01811 1.769919,-0.830645 V 20.330112 16.682389 5.8857814 c 0,-1.4524708 -1.129092,-2.6055173 -2.55139,-2.6055173 z"
      id="path3400-6"
      inkscape:connector-curvature="0"
@@ -510,7 +526,7 @@
          d="M 10,4 V 44 H 38 V 12 L 30,4 Z"
          id="path490"
          inkscape:connector-curvature="0"
-         style="fill:url(#a-9);stroke-width:1.17296219" />
+         style="fill:#a1facf;stroke-width:1.17296219;fill-opacity:1" />
       <path
          d="M 4,20 V 44 H 44 V 20 L 28,32 h -8 z"
          id="path492"
@@ -561,6 +577,6 @@
        d="m 416.57,513.21 c 1.175,1.175 1.175,3.067 0,4.243 l -9.168,9.168 c -1.567,1.567 -4.09,1.567 -5.657,0 -1.567,-1.567 -1.567,-4.09 0,-5.657 l 9.168,-9.168 0.707,0.707 -9.168,9.168 c -1.175,1.175 -1.175,3.067 0,4.243 1.175,1.175 3.067,1.175 4.243,0 l 9.168,-9.168 c 0.783,-0.783 0.783,-2.045 0,-2.828 -0.783,-0.783 -2.045,-0.783 -2.828,0 l -9.168,9.168 c -0.392,0.392 -0.392,1.023 0,1.414 0.392,0.392 1.022,0.392 1.414,0 l 8.461,-8.461 0.707,0.707 -8.461,8.461 c -0.783,0.783 -2.045,0.783 -2.828,0 -0.783,-0.783 -0.783,-2.045 0,-2.828 l 9.168,-9.168 c 1.175,-1.175 3.067,-1.175 4.243,0"
        id="path512"
        inkscape:connector-curvature="0"
-       style="color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:url(#g-1);stroke-width:1.37584031;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
+       style="color-interpolation:sRGB;color-interpolation-filters:linearRGB;fill:#3366cc;stroke-width:1.37584031;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto" />
   </g>
 </svg>
