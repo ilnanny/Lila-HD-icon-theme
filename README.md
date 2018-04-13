@@ -13,7 +13,6 @@ If you like my work, buy me a Drink.
 https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <P><b>The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )</b></P>
-<b>Tested on Gentoo,Debian,Archlinux,Fedora,Ubuntu,Opensuse,FreeBsd,Devuan on Gnome,XFCE,Cinnamon,Mate,Kde,Lxde, and  e17 ,e19 ,openbox wm </b>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <P><b>Include icons for Oblogout </b></P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
