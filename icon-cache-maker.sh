@@ -1,18 +1,10 @@
 #!/bin/bash
-###################################################
-# Write for  Gnu-Linux O.S.                       #
-# Author       : Cristian Pozzessere              #
-# D.A.Page     : http://lnanny.deviantart.com     #
-# Git Hub Page : https://github.com/ilnanny       #
-#                                                 #
-#   _  _                                          # 
-#  (_)| | _ __    __ _  _ __   _ __   _   _       #
-#  | || || '_ \  / _` || '_ \ | '_ \ | | | |      # 
-#  | || || | | || (_| || | | || | | || |_| |      # 
-#  |_||_||_| |_| \__,_||_| |_||_| |_| \__, |      #
-#                                      |___/      #
-#                                                 # 
-###################################################
+########################################
+#  Write for  Gnu-Linux O.S.                                         #
+#  Author       : Cristian Pozzessere                              #
+#  D.A.Page     : http://lnanny.deviantart.com             #
+#  Git Hub Page : https://github.com/ilnanny            #
+########################################
 echo "=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|=|"
 echo "---------------------------------------------------"
 echo "   Making of icon cache for Lila-HD-icon-theme"
