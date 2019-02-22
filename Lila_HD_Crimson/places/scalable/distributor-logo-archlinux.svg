@@ -14,8 +14,10 @@
    height="96"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.2 2405546, 2018-03-11"
-   sodipodi:docname="start-here-archlinux.svg">
+   inkscape:version="0.92.1 r15371"
+   sodipodi:docname="archlinux-logo.svg">
+  <title
+     id="title4688">Lila-HD-Icon-Theme</title>
   <script
      xlink:href=""
      id="script2985" />
@@ -23,7 +25,7 @@
      id="defs4">
     <radialGradient
        gradientUnits="userSpaceOnUse"
-       id="radialGradient1016"
+       id="radialGradient4686"
        fy="133.10451"
        fx="115.8989"
        r="154.62019"
@@ -31,12 +33,12 @@
        cx="115.8989">
       <stop
          offset="0"
-         style="stop-color:#65b9ee;stop-opacity:1"
-         id="stop1012" />
+         style="stop-color:#3c94de;stop-opacity:1"
+         id="stop4682" />
       <stop
          offset="1"
-         style="stop-color:#106db1;stop-opacity:1"
-         id="stop1014" />
+         style="stop-color:#0f64ac;stop-opacity:1"
+         id="stop4684" />
     </radialGradient>
     <linearGradient
        inkscape:collect="always"
@@ -653,7 +655,7 @@
        y2="82.984398" />
     <radialGradient
        inkscape:collect="always"
-       xlink:href="#radialGradient1016"
+       xlink:href="#radialGradient4686"
        id="radialGradient5625"
        gradientUnits="userSpaceOnUse"
        gradientTransform="matrix(1.0034441,0,0,0.8428725,33.489304,9.534941)"
@@ -711,8 +713,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.75"
-     inkscape:cx="7.4745116"
+     inkscape:zoom="5.5"
+     inkscape:cx="44.838148"
      inkscape:cy="32"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -735,20 +737,31 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
-        <cc:license
-           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
-        <dc:date>2015</dc:date>
+        <dc:title>Lila-HD-Icon-Theme</dc:title>
+        <dc:date>2015-2019</dc:date>
         <dc:creator>
           <cc:Agent>
-            <dc:title>Cristian Pozzessere  &lt; ilnanny &gt;</dc:title>
+            <dc:title>Cristian Pozzessere  == ilnanny ==</dc:title>
           </cc:Agent>
         </dc:creator>
         <dc:subject>
           <rdf:Bag>
             <rdf:li>ilnanny</rdf:li>
+            <rdf:li>lila_hd</rdf:li>
+            <rdf:li>lila-hd</rdf:li>
+            <rdf:li>lila hd icon theme</rdf:li>
+            <rdf:li>Lila-HD-Icon-Theme lila hd icon lila icon</rdf:li>
           </rdf:Bag>
         </dc:subject>
+        <dc:coverage>CC-BY-SA</dc:coverage>
+        <dc:description>Playing with Inkscape on Gnu/Linux O. S.</dc:description>
+        <dc:contributor>
+          <cc:Agent>
+            <dc:title>In the night, alone like a dog.</dc:title>
+          </cc:Agent>
+        </dc:contributor>
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
@@ -852,7 +865,7 @@
     <path
        id="path4970"
        d="M 7.7809408,-28.120957 H 88.685794 c 2.636547,0 4.759108,1.935729 4.759108,4.340202 v 67.273123 c 0,2.404471 -2.122561,4.340201 -4.759108,4.340201 H 7.7809408 c -2.6365453,0 -4.7591076,-1.93573 -4.7591076,-4.340201 v -67.273123 c 0,-2.404473 2.1225623,-4.340202 4.7591076,-4.340202 z"
-       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient5625);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
+       style="color:#000000;display:inline;overflow:visible;visibility:visible;fill:url(#radialGradient5625);fill-opacity:1.0;fill-rule:nonzero;stroke:none;stroke-width:2;marker:none;enable-background:accumulate"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="sssssssss" />
     <path
