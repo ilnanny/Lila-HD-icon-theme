@@ -81,7 +81,7 @@ NoobsLab  <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18
 <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18961a718f" />
 <b><a href="https://inkscape.org/it/~ilnanny/%E2%98%85lila-hd-icon-theme-for-gnu-linux-and-unix-os" target="_blank">Inkscape</a></b>
 
-<a href="https://sourceforge.net/p/lila-hd-icontheme/" rel="nofollow"><img alt="Download Lila HD icon theme Linux " src="https://sourceforge.net/sflogo.php?type=8&group_id=2676798"></a>
+<a href="https://sourceforge.net/projects/lila-hd-icon-theme/files/latest/download"><img alt="Download Lila HD icon theme" src="https://a.fsdn.com/con/app/sf-download-button" width=276 height=48 srcset="https://a.fsdn.com/con/app/sf-download-button?button_size=2x 2x"></a>
 
 <meta name="ocs-site-verification" content="880971b4e6ad6aee016c81fdbca1f8e1" />
 <b><a href="https://www.opendesktop.org/p/1015803/" target="_blank">OpenDesktop</a></b>
