@@ -9,7 +9,7 @@ echo "============================"
 #
 #  
 echo "============================"
-echo "Enter ito Temp Folder : "
+echo "Enter in Temp Folder : "
 echo "============================" 
 cd /tmp
 echo "============================"

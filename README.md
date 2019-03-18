@@ -85,6 +85,13 @@ NoobsLab  <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18
 
 <meta name="ocs-site-verification" content="880971b4e6ad6aee016c81fdbca1f8e1" />
 <b><a href="https://www.opendesktop.org/p/1015803/" target="_blank">OpenDesktop</a></b>
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
+<img src="https://github.com/ilnanny/lila-hd-distibutor-logo-O.S/blob/master/os.png?raw=true"Lila HD distributor logo">
+
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
+<img src="https://github.com/ilnanny/Lila-HD-Folders/blob/master/folders.png?raw=true"Lila HD folders">
+
+<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="License Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Lila HD Icon Theme</span> of <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ilnanny/Lila-hd-icon-theme" property="cc:attributionName" rel="cc:attributionURL">Cristian Pozzessere == ilnanny ==</a> </br>
