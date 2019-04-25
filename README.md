@@ -5,8 +5,8 @@
 <img src="https://github.com/ilnanny/Lila-HD-icon-theme/blob/master/Lila-HD-Icon-theme-3.0-Preview.png?raw=true"Lila HD icon Theme Master">
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-Icons are licensed under GNU General Public License v3.0
-Give CREDIT by linking back to the creator !
+<P><b>Icons are licensed under GNU General Public License v3.0</b></P>
+<P><b>Give CREDIT by linking back to the creator </b></P>
 
 If you like my work, buy me a Drink.
 <b>PayPal:</b>
