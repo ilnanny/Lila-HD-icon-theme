@@ -5,7 +5,7 @@
 <img src="https://github.com/ilnanny/Lila-HD-icon-theme/blob/master/Lila-HD-Icon-theme-3.0-Preview.png?raw=true"Lila HD icon Theme Master">
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-Icons are licensed under the Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+Icons are licensed under GNU General Public License v3.0
 Give CREDIT by linking back to the creator !
 
 If you like my work, buy me a Drink.
@@ -94,7 +94,5 @@ NoobsLab  <meta name="pling-site-verification" content="28b49771eb7de6cc3242bd18
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<br><a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="License Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Lila HD Icon Theme</span> of <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ilnanny/Lila-hd-icon-theme" property="cc:attributionName" rel="cc:attributionURL">Cristian Pozzessere == ilnanny ==</a> </br>
-It is distributed with License <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International</a>.<br />
-Based on a work at <a xmlns:dct="http://purl.org/dc/terms/" href="https://github.com/ilnanny/Lila-hd-icon-theme" rel="dct:source">https://github.com/ilnanny/Lila-hd-icon-theme</a>.<br />Permits more than the purpose of this license may be available at <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/ilnanny/Lila-hd-icon-theme" rel="cc:morePermissions">https://github.com/ilnanny/Lila-hd-icon-theme</a>.
+<br>Icons are licensed under GNU General Public License v3.0</br>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
