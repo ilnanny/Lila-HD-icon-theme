@@ -52,7 +52,7 @@ cp -r Lila-OB /usr/share/themes/
 echo "============================"
 echo "Update icon-cache:"
 echo "============================"
-sh icon-cache-maker.sh
+#sh icon-cache-maker.sh
 echo "============================"
 echo "Remove downloaded folder:"
 echo "============================"
