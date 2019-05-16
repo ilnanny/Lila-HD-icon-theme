@@ -12,7 +12,7 @@
    height="96"
    version="1"
    id="svg16"
-   sodipodi:docname="1cestart.svg"
+   sodipodi:docname="1cv8.svg"
    inkscape:version="0.92.2 2405546, 2018-03-11">
   <metadata
      id="metadata22">
@@ -22,7 +22,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
         <dc:date>2019</dc:date>
         <dc:creator>
           <cc:Agent>
@@ -49,6 +49,17 @@
   </metadata>
   <defs
      id="defs20">
+    <linearGradient
+       id="linearGradient876">
+      <stop
+         id="stop872"
+         style="stop-color:#ffffff;stop-opacity:0.11965812"
+         offset="0" />
+      <stop
+         id="stop874"
+         style="stop-color:#ffffff;stop-opacity:0.5099715"
+         offset="1" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient6139-0"
@@ -238,14 +249,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="640"
-     inkscape:window-height="480"
+     inkscape:window-width="1920"
+     inkscape:window-height="1022"
      id="namedview18"
      showgrid="false"
-     inkscape:zoom="7.96875"
-     inkscape:cx="48"
+     inkscape:zoom="5.6347572"
+     inkscape:cx="9.8965227"
      inkscape:cy="48"
-     inkscape:current-layer="g10" />
+     inkscape:current-layer="g933"
+     inkscape:window-x="0"
+     inkscape:window-y="29"
+     inkscape:window-maximized="1" />
   <g
      transform="translate(0,-1026.5197)"
      id="layer1"
@@ -313,6 +327,12 @@
         <g
            transform="matrix(0.95512918,0,0,0.95512918,-19.005866,25.2078)"
            id="g933">
+          <circle
+             style="opacity:0.91;vector-effect:none;fill:#ffffff;fill-opacity:0.57834756;stroke:none;stroke-width:0;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:stroke fill markers"
+             id="path862"
+             cx="70.401932"
+             cy="22.068449"
+             r="38.810211" />
           <g
              id="g10"
              transform="matrix(1.3982426,0,0,1.3982426,25.40703,-649.34324)">
@@ -333,12 +353,12 @@
                d="m 32,452 c -15.512,0 -28,12.486 -28,27.998 0,0.11355 0.011285,0.22404 0.017578,0.33594 0.35153,-15.201 12.694,-27.336 27.982,-27.336 15.288,0 27.631,12.135 27.982,27.336 0.0063,-0.11182 0.01758,-0.22249 0.01758,-0.33594 0,-15.512 -12.488,-27.998 -28,-27.998 z" />
           </g>
           <path
-             style="opacity:0.3;stroke-width:1.39824259"
+             style="opacity:0.627;stroke-width:1.39824259;fill:#000000;fill-opacity:1"
              inkscape:connector-curvature="0"
              id="path12"
              d="m 31.01392,20.950858 c -0.0063,0.289368 -0.01121,0.579085 -0.01121,0.870019 0,21.689578 17.461285,39.149123 39.149123,39.149123 21.689578,0 39.149117,-17.461285 39.149117,-39.149123 0,-0.290934 -0.005,-0.580651 -0.0109,-0.870019 -0.45979,21.284149 -17.741431,38.279104 -39.138682,38.279104 -21.397252,0 -38.679313,-16.995825 -39.138683,-38.279104 z" />
           <path
-             style="opacity:0.3;fill:#ffffff;stroke-width:1.39824259"
+             style="opacity:0.828;fill:#ffffff;stroke-width:1.39824259"
              inkscape:connector-curvature="0"
              id="path14"
              d="m 70.152603,-17.328246 c -21.689578,0 -39.149123,17.46128492 -39.149123,39.149123 0,0.290934 0.005,0.580651 0.01121,0.870019 0.459805,-21.284149 17.739691,-38.279104 39.138682,-38.279104 21.398992,0 38.679308,16.995825 39.138678,38.279104 0.006,-0.289368 0.0109,-0.579085 0.0109,-0.870019 0,-21.68957812 -17.461285,-39.149123 -39.149123,-39.149123 z" />
