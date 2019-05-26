@@ -5,7 +5,7 @@
 <img src="https://github.com/ilnanny/Lila-HD-icon-theme/blob/master/Lila-HD-Icon-theme-3.0-Preview.png?raw=true"Lila HD icon Theme Master">
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<P><b>Icons are licensed under GNU General Public License v3.0</b></P>
+<P><b> Mixed license CC-BY-SA-4.0 + GPLV3</b></P>
 <P><b>Give CREDIT by linking back to the creator </b></P>
 
 If you like my work, buy me a Drink.
@@ -70,5 +70,8 @@ https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<P><b>Lila HD icon theme are licensed under GNU General Public License v3.0</b></P>
+<P><b> License CCBYSA + GPLV3</b></P>
+<P><b>Lila HD icon theme are licenced under the terms of the Creative Commons Attribution-ShareAlike 4.0 License.
+
+Included scripts are free software licenced under the terms of the GNU General Public License, version 3.</b></P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
