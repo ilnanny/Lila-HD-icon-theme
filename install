@@ -1,7 +1,8 @@
 ------------------------------------------------
 ** Lila-HD
 ** by ilnanny < cristianpozzessere@gmail.com >
-** Icon theme for Gnu Linux Operation Sistem 
+** Icon theme for Gnu Linux Operation System
+** License CC-BY-SA 4.0  &&  GPLV3
 ------------------------------------------------
 
 
@@ -9,8 +10,8 @@
 
 git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
 
-** move to: 
- 
+** move to:
+
 cd ~/Lila-HD-icon-theme
 
 su
@@ -31,7 +32,7 @@ su
  rm -rf /usr/share/icons/Lila_HD-cursor
 
 ** Copy folder in your directory:
-       
+
 cp -r Lila_HD /usr/share/icons/
 
 cp -r Lila_HD_Blue /usr/share/icons/
@@ -56,4 +57,4 @@ sh icon-cache-maker.sh
  rm -rf Lila-HD-icon-theme
 
 
-** Enjoy ** 
+** Enjoy **

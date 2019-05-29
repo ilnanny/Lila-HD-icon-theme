@@ -4,13 +4,13 @@ set -o errexit
 echo "============================"
 echo "Lila-HD"
 echo "by ilnanny < cristianpozzessere@gmail.com >"
-echo "Icon theme for Gnu Linux Operation Sistem" 
+echo "Icon theme for Gnu Linux Operation System"
 echo "============================"
+sleep 1 &&
 #
-#  
 echo "============================"
 echo "Enter in Temp Folder : "
-echo "============================" 
+echo "============================"
 cd /tmp
 echo "============================"
 echo "Clone Repo:"
@@ -18,7 +18,7 @@ echo "============================"
 git clone https://github.com/ilnanny/Lila-HD-icon-theme.git
 echo "============================"
 echo "Enter in Folder icon-theme: "
-echo "============================" 
+echo "============================"
 cd /tmp/Lila-HD-icon-theme/
 echo "============================"
 echo "============================"
@@ -35,7 +35,7 @@ echo "============================"
  rm -rf /usr/share/icons/Lila_HD-cursor
 echo "============================"
 echo "Copy folder in your directory:"
-echo "============================"     
+echo "============================"
 cp -r Lila_HD /usr/share/icons/
 cp -r Lila_HD_Blue /usr/share/icons/
 cp -r Lila_HD_Dark /usr/share/icons/
@@ -45,6 +45,7 @@ cp -r Lila_HD_Light-Grey /usr/share/icons/
 cp -r Lila_HD_Purple /usr/share/icons/
 cp -r Lila_HD_Crimson /usr/share/icons/
 cp -r Lila_HD-cursor /usr/share/icons/
+sleep 1 &&
 echo "============================"
 echo "Optional Oblogout Icons"
 echo "============================"
