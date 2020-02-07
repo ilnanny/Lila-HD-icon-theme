@@ -62,7 +62,7 @@ https://www.paypal.me/ilnanny
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
-<img src="https://github.com/ilnanny/lila-hd-distibutor-logo-O.S/blob/master/os.png?raw=true"Lila HD distributor logo">
+<img src="https://github.com/ilnanny/lila-hd-distibutor-logo-O.S/blob/master/os.png?raw=true" Lila HD distributor logo">
 
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <img src="https://github.com/ilnanny/Lila-HD-Folders/blob/master/folders.png?raw=true"Lila HD folders">
