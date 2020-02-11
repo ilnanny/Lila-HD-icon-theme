@@ -1,10 +1,10 @@
 #!/bin/bash
- ########################################
-#  Write for  Gnu-Linux O.S.                                         #
-#  Author       : Cristian Pozzessere                              #
-#  D.A.Page     : http://lnanny.deviantart.com             #
-#  Git Hub Page : https://github.com/ilnanny            #
-########################################
+#================================================
+#   O.S.      : Gnu Linux                       =
+#   Author    : Cristian Pozzessere   = ilnanny =
+#   D.A.Page  : http://ilnanny.deviantart.com   =
+#   Github    : https://github.com/ilnanny      =
+#================================================
 cd "/usr/share/applications/"
 pwd
 echo Target : $1
