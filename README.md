@@ -59,11 +59,7 @@ https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 
 <img src="https://raw.githubusercontent.com/ilnanny/lila-hd-distibutor-logo/master/os.png?raw=true%22Lila">
-<<<<<<< HEAD
 
-=======
-                                                                                                                   
->>>>>>> 8d89379174a68787617a66074c1ac047efc042ef
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <img src="https://github.com/ilnanny/Lila-HD-Folders/blob/master/folders.png?raw=true"Lila HD folders">
 
@@ -75,5 +71,4 @@ https://www.paypal.me/ilnanny
 
 Included scripts are free software licenced under the terms of the GNU General Public License, version 3.</b></P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-=======
->>>>>>> 5b116d693cbc1e22b449ad204a54e107a527d0a5
+
