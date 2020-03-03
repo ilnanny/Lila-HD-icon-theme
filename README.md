@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <P><b> Mixed license CC-BY-SA-4.0 + GPLV3</b></P>
 <P><b>Give CREDIT by linking back to the creator </b></P>
@@ -12,6 +10,7 @@ https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <P><b>Include icons for Oblogout </b></P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
+<img src="https://raw.githubusercontent.com/ilnanny/Lila-HD-icon-theme/master/Lila-HD-Icon-theme-3.0-Preview.png">
 <strong>How to install :</strong>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 ** All commands will be executed as root or use sudo **
