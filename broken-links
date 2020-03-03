@@ -1,0 +1,34 @@
+#!/bin/bash
+#================================================
+#================================================
+#   O.S.      : Gnu Linux                       =
+#   Author    : Cristian Pozzessere   = ilnanny =
+#   D.A.Page  : http://ilnanny.deviantart.com   =
+#   Github    : https://github.com/ilnanny      =
+#================================================
+#================================================
+#echo "Checking and printing all the icons with a broken symbolic link"
+echo "Controllo e stampo tutte le icone con un collegamento simbolico mancante"
+cd /media/Dati/Git/Lila-HD-icon-theme/Lila_HD/actions/scalable/
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+cd /media/Dati/Git/Lila-HD-icon-theme/Lila_HD/categories/scalable/
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+cd /media/Dati/Git/Lila-HD-icon-theme/Lila_HD/devices/scalable/
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+cd /media/Dati/Git/Lila-HD-icon-theme/Lila_HD/emblems/scalable/
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+cd /media/Dati/Git/Lila-HD-icon-theme/Lila_HD/emotes/scalable/
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+cd /media/Dati/Git/Lila-HD-icon-theme/Lila_HD/mimetypes/scalable/
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+cd /media/Dati/Git/Lila-HD-icon-theme/Lila_HD/notifications/scalable/
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+cd /media/Dati/Git/Lila-HD-icon-theme/Lila_HD/places/scalable/
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+cd /media/Dati/Git/Lila-HD-icon-theme/Lila_HD/status/scalable/
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+cd /media/Dati/Git/Lila-HD-icon-theme/Lila_HD/apps/scalable/
+find ./ -type l -exec file {} \; |grep 'broken symbolic'
+echo "Fine script"
+
+sleep 5
