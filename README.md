@@ -1,13 +1,7 @@
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <P><b>Give CREDIT by linking back to the creator </b></P>
-
-If you like my work, buy me a Drink.
-<b>PayPal:</b>
-https://www.paypal.me/ilnanny
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <P><b>The software used for drawing and coloring are: Inkscape. ( https://inkscape.org/ )</b></P>
-<hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<P><b>Include icons for Oblogout </b></P>
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
 <img src="https://raw.githubusercontent.com/ilnanny/Lila-HD-icon-theme/master/Lila-HD-Icon-theme-3.0-Preview.png">
 <strong>How to install :</strong>
