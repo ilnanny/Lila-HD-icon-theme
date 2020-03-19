@@ -1,5 +1,4 @@
 <hr align=”left” size=”1″ width=”300″ color=”red” noshade>
-<P><b> Mixed license CC-BY-SA-4.0 + GPLV3</b></P>
 <P><b>Give CREDIT by linking back to the creator </b></P>
 
 If you like my work, buy me a Drink.
